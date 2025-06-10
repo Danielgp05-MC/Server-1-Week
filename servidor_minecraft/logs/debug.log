@@ -1300,3 +1300,142 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Jun2025 13:09:03.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
 [10Jun2025 13:09:35.762] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -283.0 88.0 -568.0 minecraft:overworld
 [10Jun2025 13:10:08.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[10Jun2025 13:11:05.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 13:11:05.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 13:11:55.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah lost connection: Disconnected
+[10Jun2025 13:11:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah left the game
+[10Jun2025 13:11:58.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> zzzzzzz
+[10Jun2025 13:12:03.496] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [biomesoplenty, commonnetworking, explorify, fallingtree, forge, formations, formationsoverworld, glitchcore, journeymap, journeymap_api, mcwdoors, minecraft, onlyhammersandexcavators, sound_physics_remastered, terrablender, tlskincape]
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [fallingtree:main, forge:channel_registration, forge:handshake, forge:login, glitchcore:main, journeymap:admin_req, journeymap:admin_save, journeymap:chunk_overlay, journeymap:common, journeymap:mp_options_req, journeymap:perm_req, journeymap:player_loc, journeymap:remove_player, journeymap:teleport_req, journeymap:version, journeymap:waypoint, worldinfo:world_id]
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:chunk_overlay' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:remove_player' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.541] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.542] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.542] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.542] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.542] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.542] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.542] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:12:03.542] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[10Jun2025 13:12:03.591] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[10Jun2025 13:12:03.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[10Jun2025 13:12:03.682] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[10Jun2025 13:12:03.787] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[10Jun2025 13:12:03.832] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[10Jun2025 13:12:03.877] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[10Jun2025 13:12:03.975] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[10Jun2025 13:12:04.020] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[10Jun2025 13:12:04.064] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[10Jun2025 13:12:04.109] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[10Jun2025 13:12:04.154] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[10Jun2025 13:12:04.199] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[10Jun2025 13:12:04.295] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[10Jun2025 13:12:04.340] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[10Jun2025 13:12:04.384] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[10Jun2025 13:12:04.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[10Jun2025 13:12:04.476] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[10Jun2025 13:12:04.527] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[10Jun2025 13:12:04.572] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[10Jun2025 13:12:05.126] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[10Jun2025 13:12:05.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:48391] logged in with entity id 3561 at (-272.5155921076531, 19.0, -481.2512481023293)
+[10Jun2025 13:12:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
+[10Jun2025 13:13:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was blown up by Creeper
+[10Jun2025 13:14:06.422] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[10Jun2025 13:15:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Monster Hunter]
+[10Jun2025 13:16:05.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 13:16:05.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 13:17:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was slain by Zombie
+[10Jun2025 13:19:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was blown up by Creeper
+[10Jun2025 13:20:05.523] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -502.5 11.0 -1002.5 minecraft:overworld
+[10Jun2025 13:20:09.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was blown up by Creeper
+[10Jun2025 13:20:27.324] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -502.5 11.0 -1002.5 minecraft:overworld
+[10Jun2025 13:20:30.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was blown up by Creeper
+[10Jun2025 13:20:37.550] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -502.5 11.0 -1002.5 minecraft:overworld
+[10Jun2025 13:20:46.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.7929112315314342,0.0,10.369727374380318
+[10Jun2025 13:20:46.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.8234078173595663,0.0,10.768563042625715
+[10Jun2025 13:20:46.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.8539044031876983,0.0,11.167398710871112
+[10Jun2025 13:20:46.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.8844009890158304,0.0,11.566234379116509
+[10Jun2025 13:20:46.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.9148975748439625,0.0,11.965070047361905
+[10Jun2025 13:20:46.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.9453941606720946,0.0,12.363905715607302
+[10Jun2025 13:20:46.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.9758907465002267,0.0,12.762741383852699
+[10Jun2025 13:20:46.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.0063873323283588,0.0,13.161577052098096
+[10Jun2025 13:20:46.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.0368839181564908,0.0,13.560412720343493
+[10Jun2025 13:20:46.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.067380503984623,0.0,13.95924838858889
+[10Jun2025 13:20:46.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.097877089812755,0.0,14.358084056834286
+[10Jun2025 13:20:46.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.128373675640887,0.0,14.756919725079683
+[10Jun2025 13:21:05.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 13:21:05.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 13:21:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Acquire Hardware]
+[10Jun2025 13:22:04.105] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1517, y=82, z=743}
+[10Jun2025 13:23:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ZZZZZZZZZZ
+[10Jun2025 13:23:22.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah lost connection: Disconnected
+[10Jun2025 13:23:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah left the game
+[10Jun2025 13:23:35.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> Z
+[10Jun2025 13:23:38.409] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [biomesoplenty, commonnetworking, explorify, fallingtree, forge, formations, formationsoverworld, glitchcore, journeymap, journeymap_api, mcwdoors, minecraft, onlyhammersandexcavators, sound_physics_remastered, terrablender, tlskincape]
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [fallingtree:main, forge:channel_registration, forge:handshake, forge:login, glitchcore:main, journeymap:admin_req, journeymap:admin_save, journeymap:chunk_overlay, journeymap:common, journeymap:mp_options_req, journeymap:perm_req, journeymap:player_loc, journeymap:remove_player, journeymap:teleport_req, journeymap:version, journeymap:waypoint, worldinfo:world_id]
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:chunk_overlay' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:remove_player' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Jun2025 13:23:38.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[10Jun2025 13:23:38.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[10Jun2025 13:23:38.552] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[10Jun2025 13:23:38.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[10Jun2025 13:23:38.705] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[10Jun2025 13:23:38.750] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[10Jun2025 13:23:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[10Jun2025 13:23:38.891] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[10Jun2025 13:23:38.936] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[10Jun2025 13:23:38.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[10Jun2025 13:23:39.026] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[10Jun2025 13:23:39.071] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[10Jun2025 13:23:39.148] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[10Jun2025 13:23:39.244] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[10Jun2025 13:23:39.290] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[10Jun2025 13:23:39.335] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[10Jun2025 13:23:39.381] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[10Jun2025 13:23:39.426] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[10Jun2025 13:23:39.472] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[10Jun2025 13:23:39.518] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[10Jun2025 13:23:40.119] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[10Jun2025 13:23:40.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:49479] logged in with entity id 12240 at (-302.96703669296073, -30.0, -434.547711821846)
+[10Jun2025 13:23:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
+[10Jun2025 13:24:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Not Today, Thank You]
+[10Jun2025 13:24:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was doomed to fall by Zombie
+[10Jun2025 13:24:39.529] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -450.5 3.0 -990.5 minecraft:overworld
+[10Jun2025 13:25:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Diamonds!]
+[10Jun2025 13:25:05.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Acquire Hardware]
+[10Jun2025 13:25:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Isn't It Iron Pick]
+[10Jun2025 13:25:15.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 drowned
+[10Jun2025 13:25:27.224] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -475.5 60.0 906.5 minecraft:overworld
+[10Jun2025 13:25:29.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Acquire Hardware]
+[10Jun2025 13:26:05.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 13:26:05.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 13:27:22.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[10Jun2025 13:28:16.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Isn't It Iron Pick]
+[10Jun2025 13:28:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Diamonds!]
+[10Jun2025 13:29:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Suit Up]
+[10Jun2025 13:30:01.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[10Jun2025 13:30:18.742] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -425.5 -1.0 -972.5 minecraft:overworld
+[10Jun2025 13:30:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Suit Up]
