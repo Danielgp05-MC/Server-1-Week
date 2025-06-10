@@ -84,3 +84,50 @@
 [10Jun2025 12:17:57.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
 [10Jun2025 12:17:57.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
 [10Jun2025 12:18:57.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[10Jun2025 12:27:16.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:43437] logged in with entity id 62 at (-85.5, 83.0, -249.5)
+[10Jun2025 12:27:16.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[10Jun2025 12:27:26.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:37829] logged in with entity id 165 at (-81.5, 71.0, -257.5)
+[10Jun2025 12:27:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
+[10Jun2025 12:27:34.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Danielgp_05 a server operator
+[10Jun2025 12:27:35.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:47495] logged in with entity id 228 at (-83.5, 82.0, -250.5)
+[10Jun2025 12:27:35.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[10Jun2025 12:27:41.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-81, y=83, z=-251}
+[10Jun2025 12:27:43.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=83, z=-250}
+[10Jun2025 12:27:43.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-84, y=83, z=-250}
+[10Jun2025 12:27:44.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-82, y=84, z=-250}
+[10Jun2025 12:27:46.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-88, y=81, z=-250}
+[10Jun2025 12:27:46.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-88, y=80, z=-250}
+[10Jun2025 12:27:46.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-88, y=81, z=-250}
+[10Jun2025 12:27:46.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-88, y=81, z=-250}
+[10Jun2025 12:27:46.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-88, y=81, z=-250}
+[10Jun2025 12:28:15.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Made Colomer3213 a server operator]
+[10Jun2025 12:28:19.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Made Aszetah a server operator]
+[10Jun2025 12:30:02.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Stone Age]
+[10Jun2025 12:30:13.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Stone Age]
+[10Jun2025 12:30:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[10Jun2025 12:30:39.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Getting an Upgrade]
+[10Jun2025 12:30:53.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Stone Age]
+[10Jun2025 12:31:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Getting an Upgrade]
+[10Jun2025 12:31:40.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Getting an Upgrade]
+[10Jun2025 12:31:52.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[10Jun2025 12:32:44.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Gamerule keepInventory is now set to: true]
+[10Jun2025 12:35:55.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Monster Hunter]
+[10Jun2025 12:36:23.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was blown up by Creeper
+[10Jun2025 12:37:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[10Jun2025 12:37:17.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Sweet Dreams]
+[10Jun2025 12:37:32.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Sweet Dreams]
+[10Jun2025 12:38:02.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Sweet Dreams]
+[10Jun2025 12:38:10.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[10Jun2025 12:38:10.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[10Jun2025 12:38:18.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:32779] logged in with entity id 3299 at (-95.30000001192093, 65.0, -262.55142201439384)
+[10Jun2025 12:38:18.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[10Jun2025 12:38:39.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Applied effect Levitation to Aszetah]
+[10Jun2025 12:38:49.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Monster Hunter]
+[10Jun2025 12:38:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Removed every effect from Aszetah]
+[10Jun2025 12:40:49.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[10Jun2025 12:40:49.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[10Jun2025 12:40:59.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:40713] logged in with entity id 3892 at (-156.49711004162873, 70.0, -423.1356337102436)
+[10Jun2025 12:40:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[10Jun2025 12:41:42.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[10Jun2025 12:44:10.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[10Jun2025 12:45:16.272] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -373.0 128.0 -616.0 minecraft:overworld
