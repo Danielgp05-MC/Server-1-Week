@@ -184,3 +184,150 @@
 [12Jun2025 10:21:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Acquire Hardware]
 [12Jun2025 10:21:12.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Isn't It Iron Pick]
 [12Jun2025 10:21:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Diamonds!]
+[12Jun2025 10:23:01.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:43287] logged in with entity id 19642 at (-145.87296379591191, 67.0, 637.7289792884944)
+[12Jun2025 10:23:02.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[12Jun2025 10:23:56.450] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -317.0 63.0 592.0 minecraft:overworld
+[12Jun2025 10:24:07.259] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:24:07.293] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:24:07.294] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:24:07.295] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:24:10.935] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:24:10.936] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:24:10.936] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:24:10.938] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:24:11.048] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -390.0 64.0 646.0 minecraft:overworld
+[12Jun2025 10:24:24.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was slain by Zombie
+[12Jun2025 10:24:33.317] [Server thread/INFO] [journeymap/]: Aszetah teleported to 404.5 -40.0 762.5 minecraft:overworld
+[12Jun2025 10:25:47.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Acquire Hardware]
+[12Jun2025 10:26:13.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Suit Up]
+[12Jun2025 10:27:14.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Suit Up]
+[12Jun2025 10:27:24.380] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -417.0 47.0 688.0 minecraft:overworld
+[12Jun2025 10:28:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[12Jun2025 10:29:43.605] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:29:43.606] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:29:43.607] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:29:43.610] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:29:43.709] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:29:43.709] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:29:43.718] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:29:43.719] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:30:15.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Acquire Hardware]
+[12Jun2025 10:30:46.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Isn't It Iron Pick]
+[12Jun2025 10:30:53.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Diamonds!]
+[12Jun2025 10:30:57.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 3.212669476776398,0.0,-9.879949806702841
+[12Jun2025 10:30:57.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 3.3362003911551597,0.0,-10.260316006255664
+[12Jun2025 10:30:57.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 3.4598380536389755,0.0,-10.640655473658995
+[12Jun2025 10:30:57.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 3.5835790779453305,0.0,-11.02096849049205
+[12Jun2025 10:30:57.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 3.707416771223393,0.0,-11.401256509719591
+[12Jun2025 10:30:57.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 3.8313487541728364,0.0,-11.781519639466394
+[12Jun2025 10:30:57.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 3.955369242089489,0.0,-12.16175916913765
+[12Jun2025 10:30:57.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 4.079476670211022,0.0,-12.541975067105104
+[12Jun2025 10:30:57.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 4.203665987848808,0.0,-12.922168496996226
+[12Jun2025 10:30:57.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 4.327932648451849,0.0,-13.302340509800997
+[12Jun2025 10:30:57.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 4.452272561055679,0.0,-13.682492047685088
+[12Jun2025 10:30:57.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah moved too quickly! -3.78751614132392,-1.0,9.35220115965626
+[12Jun2025 10:30:57.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 4.576678400458491,0.0,-14.062625158141053
+[12Jun2025 10:30:57.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Colomer3213) moved too quickly! 4.701147217312666,0.0,-14.44274048809396
+[12Jun2025 10:31:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Skeleton
+[12Jun2025 10:31:31.440] [Server thread/INFO] [journeymap/]: Aszetah teleported to 455.5 -44.0 741.5 minecraft:overworld
+[12Jun2025 10:32:39.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:33:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[12Jun2025 10:33:14.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Diamonds!]
+[12Jun2025 10:33:50.088] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 533.0 -35.0 865.0 minecraft:overworld
+[12Jun2025 10:33:50.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Minecraft: Trial(s) Edition]
+[12Jun2025 10:33:53.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:33:54.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Minecraft: Trial(s) Edition]
+[12Jun2025 10:35:13.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Skeleton
+[12Jun2025 10:35:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[12Jun2025 10:35:20.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Minecraft: Trial(s) Edition]
+[12Jun2025 10:36:18.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was slain by Zombie
+[12Jun2025 10:36:24.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[12Jun2025 10:37:17.813] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -353.5 63.0 -53.5 minecraft:overworld
+[12Jun2025 10:37:31.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:37:38.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was slain by Zombie
+[12Jun2025 10:37:45.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[12Jun2025 10:38:14.466] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -353.5 63.0 -53.5 minecraft:overworld
+[12Jun2025 10:38:15.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[12Jun2025 10:38:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Enderman
+[12Jun2025 10:38:53.341] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -381.5 66.0 -103.5 minecraft:overworld
+[12Jun2025 10:38:54.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Stray
+[12Jun2025 10:39:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[12Jun2025 10:39:33.701] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 295.0 83.0 88.0 minecraft:overworld
+[12Jun2025 10:39:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[12Jun2025 10:39:56.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Ol' Betsy]
+[12Jun2025 10:39:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Take Aim]
+[12Jun2025 10:40:30.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:42:01.033] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 69.0 90.0 1078.0 minecraft:overworld
+[12Jun2025 10:42:19.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[12Jun2025 10:42:30.848] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:42:30.849] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:42:30.849] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:42:30.851] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:42:34.605] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:42:34.606] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:42:34.606] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:42:34.607] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:42:38.272] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:42:38.274] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:42:38.274] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:42:38.276] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:42:40.503] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:42:40.504] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:42:40.504] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:42:40.505] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:42:51.093] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:42:51.094] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:42:51.094] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:42:51.095] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:43:01.557] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -191.5 70.0 791.5 minecraft:overworld
+[12Jun2025 10:44:54.485] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 85.0 69.0 1168.0 minecraft:overworld
+[12Jun2025 10:44:55.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:45:18.028] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:45:18.029] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:45:18.029] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:45:18.030] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:46:33.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[12Jun2025 10:47:15.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Best Friends Forever]
+[12Jun2025 10:47:29.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[12Jun2025 10:48:05.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[12Jun2025 10:48:33.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:48:42.395] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -1301.0 69.0 -305.0 minecraft:overworld
+[12Jun2025 10:48:48.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[12Jun2025 10:49:59.563] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -191.5 70.0 791.5 minecraft:overworld
+[12Jun2025 10:50:02.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Sweet Dreams]
+[12Jun2025 10:50:04.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ZZ
+[12Jun2025 10:50:10.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[12Jun2025 10:50:10.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[12Jun2025 10:50:16.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah lost connection: Disconnected
+[12Jun2025 10:50:16.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah left the game
+[12Jun2025 10:50:21.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:52671] logged in with entity id 39718 at (-1183.7398312854855, 64.0, -344.7075077070886)
+[12Jun2025 10:50:21.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[12Jun2025 10:50:24.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:47195] logged in with entity id 39961 at (-1496.0210780939783, 71.0, -315.26544620914564)
+[12Jun2025 10:50:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
+[12Jun2025 10:50:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[12Jun2025 10:54:38.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:54:40.483] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-204, y=56, z=-106}
+[12Jun2025 10:54:54.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Best Friends Forever]
+[12Jun2025 10:55:19.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [A Seedy Place]
+[12Jun2025 10:55:54.886] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-196, y=56, z=-101}
+[12Jun2025 10:55:54.886] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-199, y=56, z=-101}
+[12Jun2025 10:56:02.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Colomer3213
+[12Jun2025 10:56:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[12Jun2025 10:57:25.842] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:57:25.843] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:57:25.843] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:57:25.845] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:58:05.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/45432, l='ServerLevel[world]', x=-2088.37, y=10.05, z=-375.59] died, message: 'Toolsmith drowned'
+[12Jun2025 10:58:26.424] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1488, y=82, z=747}
+[12Jun2025 10:58:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:58:58.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[12Jun2025 10:59:40.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[12Jun2025 11:00:22.573] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 11:00:22.573] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 11:00:22.574] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 11:00:22.574] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 11:01:11.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[12Jun2025 11:01:11.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[12Jun2025 11:02:01.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[12Jun2025 11:02:25.160] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -191.5 70.0 791.5 minecraft:overworld
+[12Jun2025 11:02:33.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
