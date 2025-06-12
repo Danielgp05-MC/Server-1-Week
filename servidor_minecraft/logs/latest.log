@@ -1,156 +1,117 @@
-[10Jun2025 13:00:44.010] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[10Jun2025 13:00:44.012] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
-[10Jun2025 13:00:44.014] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[10Jun2025 13:00:44.199] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[10Jun2025 13:00:44.297] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[10Jun2025 13:00:44.611] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[10Jun2025 13:00:45.424] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Jun2025 13:00:45.453] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[10Jun2025 13:00:45.482] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.483] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.484] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.486] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.487] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.488] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.498] [main/WARN] [mixin/]: Reference map 'formations.mixins.refmap.json' for formations.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.500] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.501] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:45.502] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 13:00:46.105] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/SalmonRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.SalmonRenderer)
-[10Jun2025 13:00:46.106] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.SalmonRenderer was not found journeymap.mixins.json:client.SalmonRendererInvoker
-[10Jun2025 13:00:46.383] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[10Jun2025 13:00:46.495] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[10Jun2025 13:00:51.587] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[10Jun2025 13:00:51.587] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[10Jun2025 13:00:51.605] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[10Jun2025 13:00:52.710] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[10Jun2025 13:00:52.710] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[10Jun2025 13:00:52.710] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[10Jun2025 13:00:52.710] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[10Jun2025 13:00:52.710] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[10Jun2025 13:00:52.711] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[10Jun2025 13:00:52.711] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[10Jun2025 13:00:52.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[10Jun2025 13:00:53.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[10Jun2025 13:00:53.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Jun2025 13:00:53.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
-[10Jun2025 13:00:53.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[10Jun2025 13:00:53.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA Current: 1.21.3-1.4.7 Target: 1.21.3-1.4.7
-[10Jun2025 13:00:53.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[10Jun2025 13:00:53.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.3-6.0.0-beta.31 Target: null
-[10Jun2025 13:00:54.233] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10Jun2025 13:00:55.173] [main/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag c:boats as it is missing following references: biomesoplenty:boat (from mod:biomesoplenty), 
-	biomesoplenty:chest_boat (from mod:biomesoplenty)
-[10Jun2025 13:00:56.969] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1922 recipes
-[10Jun2025 13:00:56.993] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1790 advancements
-[10Jun2025 13:00:57.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[10Jun2025 13:00:57.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Jun2025 13:00:57.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Jun2025 13:00:57.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Jun2025 13:00:57.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Jun2025 13:00:57.301] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Jun2025 13:00:57.343] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Jun2025 13:00:57.343] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Jun2025 13:00:57.343] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Jun2025 13:00:57.343] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Jun2025 13:00:57.356] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[10Jun2025 13:00:57.397] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[10Jun2025 13:00:57.773] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[10Jun2025 13:00:57.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Jun2025 13:00:58.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Jun2025 13:01:04.822] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.824] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.824] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.829] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.829] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.830] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.836] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.836] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.836] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.837] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.837] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.837] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.837] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.838] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 13:01:04.955] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6864 ms
-[10Jun2025 13:01:04.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.602s)! For help, type "help"
-[10Jun2025 13:01:04.970] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Jun2025 13:01:04.973] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
-[10Jun2025 13:01:04.974] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeClientHooks@2c1cab45 for service interface journeymap.api.services.ClientPlatformService
-[10Jun2025 13:01:04.976] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeHooks@5cf6f774 for service interface journeymap.api.services.CommonPlatformService
-[10Jun2025 13:01:34.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:45639] logged in with entity id 7 at (-287.5, 47.0, -514.5)
-[10Jun2025 13:01:34.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
-[10Jun2025 13:01:45.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:48553] logged in with entity id 299 at (-410.51147877853805, 128.0, -611.2904639987684)
-[10Jun2025 13:01:45.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
-[10Jun2025 13:01:54.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:45057] logged in with entity id 464 at (-386.84718588612435, 123.0, -642.3786126316722)
-[10Jun2025 13:01:54.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
-[10Jun2025 13:03:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Skeleton
-[10Jun2025 13:04:51.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[10Jun2025 13:04:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
-[10Jun2025 13:05:43.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
-[10Jun2025 13:05:43.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
-[10Jun2025 13:07:49.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:50229] logged in with entity id 1852 at (-297.92286413803487, 28.0, -477.2193392350839)
-[10Jun2025 13:07:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
-[10Jun2025 13:09:03.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
-[10Jun2025 13:09:35.762] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -283.0 88.0 -568.0 minecraft:overworld
-[10Jun2025 13:10:08.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[10Jun2025 13:11:55.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah lost connection: Disconnected
-[10Jun2025 13:11:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah left the game
-[10Jun2025 13:11:58.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> zzzzzzz
-[10Jun2025 13:12:05.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:48391] logged in with entity id 3561 at (-272.5155921076531, 19.0, -481.2512481023293)
-[10Jun2025 13:12:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
-[10Jun2025 13:13:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was blown up by Creeper
-[10Jun2025 13:14:06.422] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1340, y=81, z=648}
-[10Jun2025 13:15:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Monster Hunter]
-[10Jun2025 13:17:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was slain by Zombie
-[10Jun2025 13:19:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was blown up by Creeper
-[10Jun2025 13:20:05.523] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -502.5 11.0 -1002.5 minecraft:overworld
-[10Jun2025 13:20:09.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was blown up by Creeper
-[10Jun2025 13:20:27.324] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -502.5 11.0 -1002.5 minecraft:overworld
-[10Jun2025 13:20:30.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was blown up by Creeper
-[10Jun2025 13:20:37.550] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -502.5 11.0 -1002.5 minecraft:overworld
-[10Jun2025 13:20:46.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.7929112315314342,0.0,10.369727374380318
-[10Jun2025 13:20:46.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.8234078173595663,0.0,10.768563042625715
-[10Jun2025 13:20:46.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.8539044031876983,0.0,11.167398710871112
-[10Jun2025 13:20:46.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.8844009890158304,0.0,11.566234379116509
-[10Jun2025 13:20:46.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.9148975748439625,0.0,11.965070047361905
-[10Jun2025 13:20:46.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.9453941606720946,0.0,12.363905715607302
-[10Jun2025 13:20:46.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -0.9758907465002267,0.0,12.762741383852699
-[10Jun2025 13:20:46.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.0063873323283588,0.0,13.161577052098096
-[10Jun2025 13:20:46.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.0368839181564908,0.0,13.560412720343493
-[10Jun2025 13:20:46.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.067380503984623,0.0,13.95924838858889
-[10Jun2025 13:20:46.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.097877089812755,0.0,14.358084056834286
-[10Jun2025 13:20:46.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.biomesoplenty.jacaranda_boat (vehicle of Colomer3213) moved too quickly! -1.128373675640887,0.0,14.756919725079683
-[10Jun2025 13:21:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Acquire Hardware]
-[10Jun2025 13:22:04.105] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1517, y=82, z=743}
-[10Jun2025 13:23:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ZZZZZZZZZZ
-[10Jun2025 13:23:22.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah lost connection: Disconnected
-[10Jun2025 13:23:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah left the game
-[10Jun2025 13:23:35.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> Z
-[10Jun2025 13:23:40.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:49479] logged in with entity id 12240 at (-302.96703669296073, -30.0, -434.547711821846)
-[10Jun2025 13:23:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
-[10Jun2025 13:24:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Not Today, Thank You]
-[10Jun2025 13:24:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was doomed to fall by Zombie
-[10Jun2025 13:24:39.529] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -450.5 3.0 -990.5 minecraft:overworld
-[10Jun2025 13:25:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Diamonds!]
-[10Jun2025 13:25:05.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Acquire Hardware]
-[10Jun2025 13:25:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Isn't It Iron Pick]
-[10Jun2025 13:25:15.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 drowned
-[10Jun2025 13:25:27.224] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -475.5 60.0 906.5 minecraft:overworld
-[10Jun2025 13:25:29.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Acquire Hardware]
-[10Jun2025 13:27:22.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
-[10Jun2025 13:28:16.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Isn't It Iron Pick]
-[10Jun2025 13:28:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Diamonds!]
-[10Jun2025 13:29:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Suit Up]
-[10Jun2025 13:30:01.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
-[10Jun2025 13:30:18.742] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -425.5 -1.0 -972.5 minecraft:overworld
-[10Jun2025 13:30:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Suit Up]
-[10Jun2025 13:34:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
-[10Jun2025 13:34:26.416] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -425.5 -1.0 -972.5 minecraft:overworld
-[10Jun2025 13:34:57.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[10Jun2025 13:35:10.766] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -425.5 -1.0 -972.5 minecraft:overworld
-[10Jun2025 13:35:56.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Skeleton
-[10Jun2025 13:36:17.800] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -394.0 74.0 842.0 minecraft:overworld
-[10Jun2025 13:36:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> zzzzz
-[10Jun2025 13:36:57.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> zzzzzzzzzz
-[10Jun2025 13:39:22.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Diamonds!]
+[12Jun2025 09:41:59.353] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[12Jun2025 09:41:59.354] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
+[12Jun2025 09:41:59.356] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[12Jun2025 09:41:59.620] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[12Jun2025 09:41:59.729] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[12Jun2025 09:42:00.120] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[12Jun2025 09:42:00.928] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[12Jun2025 09:42:00.967] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[12Jun2025 09:42:00.994] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:00.996] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:00.998] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:00.999] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:01.072] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:01.073] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:01.074] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:01.075] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:01.076] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:01.079] [main/WARN] [mixin/]: Reference map 'formations.mixins.refmap.json' for formations.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:01.081] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 09:42:01.755] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[12Jun2025 09:42:01.855] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[12Jun2025 09:42:01.968] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[12Jun2025 09:42:07.018] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[12Jun2025 09:42:07.032] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[12Jun2025 09:42:07.221] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[12Jun2025 09:42:07.221] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[12Jun2025 09:42:07.236] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[12Jun2025 09:42:08.492] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[12Jun2025 09:42:08.492] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[12Jun2025 09:42:08.492] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[12Jun2025 09:42:08.492] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[12Jun2025 09:42:08.493] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[12Jun2025 09:42:08.493] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[12Jun2025 09:42:08.494] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[12Jun2025 09:42:08.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[12Jun2025 09:42:08.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.1 Target: null
+[12Jun2025 09:42:08.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Starting version check at https://api.modrinth.com/updates/ibnDR6oc/forge_updates.json
+[12Jun2025 09:42:09.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Found status: OUTDATED Current: 9.0.1 Target: 9.1.1+mod
+[12Jun2025 09:42:09.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[12Jun2025 09:42:09.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.1-6.0.0-beta.47 Target: 1.21.1-6.0.0-beta.45
+[12Jun2025 09:42:09.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Starting version check at https://api.modrinth.com/updates/Vr3O6THr/forge_updates.json
+[12Jun2025 09:42:09.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Found status: OUTDATED Current: 3.0.0 Target: 3.0.1
+[12Jun2025 09:42:09.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[12Jun2025 09:42:09.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[12Jun2025 09:42:09.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[12Jun2025 09:42:09.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.1-1.4.10 Target: 1.21.1-1.4.12
+[12Jun2025 09:42:09.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Jun2025 09:42:10.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
+[12Jun2025 09:42:10.328] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12Jun2025 09:42:11.675] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[12Jun2025 09:42:11.676] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[12Jun2025 09:42:11.678] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[12Jun2025 09:42:11.680] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[12Jun2025 09:42:11.683] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[12Jun2025 09:42:11.687] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[12Jun2025 09:42:11.688] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[12Jun2025 09:42:11.688] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[12Jun2025 09:42:11.691] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[12Jun2025 09:42:12.473] [Worker-Main-3/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element minecraft:loot_table/wabi_sabi_structures:chests/generic/generic_firework_dispenser - Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]
+[12Jun2025 09:42:13.586] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2130 recipes
+[12Jun2025 09:42:13.889] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1982 advancements
+[12Jun2025 09:42:14.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[12Jun2025 09:42:14.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Jun2025 09:42:14.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Jun2025 09:42:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Jun2025 09:42:14.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Jun2025 09:42:14.987] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[12Jun2025 09:42:15.028] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Jun2025 09:42:15.029] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Jun2025 09:42:15.029] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Jun2025 09:42:15.029] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Jun2025 09:42:15.042] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Jun2025 09:42:15.085] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[12Jun2025 09:42:15.467] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[12Jun2025 09:42:15.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Jun2025 09:42:21.412] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.62.206.166:59347] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[12Jun2025 09:42:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Jun2025 09:42:34.035] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 09:42:34.036] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 09:42:34.037] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 09:42:34.037] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 09:42:34.038] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 09:42:34.038] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 09:42:34.317] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2825 ms
+[12Jun2025 09:42:34.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.279s)! For help, type "help"
+[12Jun2025 09:42:34.330] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Jun2025 09:42:34.333] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[12Jun2025 09:42:34.334] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeClientHooks@35fd8c1a for service interface journeymap.api.services.ClientPlatformService
+[12Jun2025 09:42:34.335] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeHooks@661cefef for service interface journeymap.api.services.CommonPlatformService
+[12Jun2025 09:43:01.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:45993] logged in with entity id 185 at (266.5, 70.0, 169.5)
+[12Jun2025 09:43:01.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[12Jun2025 09:43:05.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[12Jun2025 09:43:05.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[12Jun2025 09:47:54.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:45593] logged in with entity id 239 at (266.5, 70.0, 169.5)
+[12Jun2025 09:47:54.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[12Jun2025 09:48:18.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Danielgp_05 a server operator
+[12Jun2025 09:48:28.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:37641] logged in with entity id 624 at (258.5, 64.0, 174.5)
+[12Jun2025 09:48:28.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[12Jun2025 09:48:54.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:59367] logged in with entity id 767 at (257.37638965921553, 68.5, 226.4197298943801)
+[12Jun2025 09:48:54.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
+[12Jun2025 09:49:26.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Made Colomer3213 a server operator]
+[12Jun2025 09:49:29.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Made Aszetah a server operator]
+[12Jun2025 09:49:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Gamerule keepInventory is now set to: true]
+[12Jun2025 09:49:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[12Jun2025 09:50:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Ice Bucket Challenge]
+[12Jun2025 09:51:09.515] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 09:51:09.517] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 09:51:09.518] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 09:51:09.522] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 09:51:10.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah fell from a high place
+[12Jun2025 09:51:20.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[12Jun2025 09:51:27.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was blown up by Creeper
+[12Jun2025 09:51:36.860] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 394.5 70.0 341.5 minecraft:overworld
+[12Jun2025 09:51:41.484] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 09:51:41.485] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 09:51:41.486] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 09:51:41.489] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
