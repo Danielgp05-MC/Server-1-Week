@@ -11,6 +11,30 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "volcanic_plains": "2025-06-12 09:57:50 +0000",
@@ -21,9 +45,39 @@
     },
     "done": false
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-06-12 09:43:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
     },
     "done": false
   },
@@ -35,7 +89,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-12 10:02:34 +0000"
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
     },
     "done": false
   },
@@ -48,6 +102,18 @@
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-06-12 09:43:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 10:08:34 +0000"
     },
     "done": false
   },
@@ -251,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-12 10:05:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-12 09:51:21 +0000"
@@ -380,6 +452,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-12 09:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-12 10:05:12 +0000"
     },
     "done": true
   },
@@ -542,6 +620,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-12 09:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-12 10:05:12 +0000"
     },
     "done": true
   },
@@ -718,7 +802,8 @@
       "minecraft:beach": "2025-06-12 10:01:22 +0000",
       "minecraft:river": "2025-06-12 10:02:00 +0000",
       "minecraft:lukewarm_ocean": "2025-06-12 09:56:34 +0000",
-      "minecraft:savanna": "2025-06-12 09:50:53 +0000"
+      "minecraft:savanna": "2025-06-12 09:50:53 +0000",
+      "minecraft:plains": "2025-06-12 10:06:41 +0000"
     },
     "done": false
   },
@@ -760,6 +845,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-12 10:04:25 +0000",
       "cooked_beef": "2025-06-12 09:59:30 +0000"
     },
     "done": false

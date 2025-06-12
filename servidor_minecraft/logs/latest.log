@@ -141,3 +141,46 @@
 [12Jun2025 10:02:25.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/154, l='ServerLevel[world]', x=225.52, y=-9.44, z=213.50] died, message: 'Fisherman suffocated in a wall'
 [12Jun2025 10:02:26.785] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 53.5 64.0 937.5 minecraft:overworld
 [12Jun2025 10:02:29.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Monster Hunter]
+[12Jun2025 10:02:39.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[12Jun2025 10:02:39.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[12Jun2025 10:02:44.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:02:44.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Stone Age]
+[12Jun2025 10:03:05.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Colomer3213
+[12Jun2025 10:03:09.338] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 58.5 64.0 928.5 minecraft:overworld
+[12Jun2025 10:03:23.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Danielgp_05
+[12Jun2025 10:03:27.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:04:33.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Getting an Upgrade]
+[12Jun2025 10:04:52.670] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[12Jun2025 10:04:52.671] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[12Jun2025 10:04:52.671] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[12Jun2025 10:04:52.674] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 10:04:52.701] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[12Jun2025 10:04:52.707] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[12Jun2025 10:04:55.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13058, l='ServerLevel[world]', x=53.15, y=-12.20, z=631.77] died, message: 'Farmer tried to swim in lava'
+[12Jun2025 10:04:55.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13059, l='ServerLevel[world]', x=53.41, y=-12.08, z=632.64] died, message: 'Farmer tried to swim in lava'
+[12Jun2025 10:04:56.263] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[12Jun2025 10:04:56.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[12Jun2025 10:04:56.566] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=11, y=-12, z=-131}
+[12Jun2025 10:06:21.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Skeleton
+[12Jun2025 10:06:41.391] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -138.0 67.0 639.0 minecraft:overworld
+[12Jun2025 10:06:47.379] [Server thread/INFO] [journeymap/]: Aszetah teleported to 349.5 15.0 959.5 minecraft:overworld
+[12Jun2025 10:07:00.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/14305, l='ServerLevel[world]', x=-194.50, y=36.05, z=658.50] died, message: 'Leatherworker drowned'
+[12Jun2025 10:08:47.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[12Jun2025 10:08:47.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[12Jun2025 10:09:00.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: You logged in from another location
+[12Jun2025 10:09:00.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[12Jun2025 10:09:00.868] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jun2025 10:09:07.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:54761] logged in with entity id 16164 at (-164.75906483848846, 72.0, 795.0742986109484)
+[12Jun2025 10:09:07.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[12Jun2025 10:10:24.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[12Jun2025 10:12:52.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Timed out
+[12Jun2025 10:12:52.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[12Jun2025 10:12:59.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:40997] logged in with entity id 17035 at (395.2968980417335, 4.0, 910.55361792888)
+[12Jun2025 10:12:59.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[12Jun2025 10:15:15.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[12Jun2025 10:18:34.278] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -191.5 70.0 791.5 minecraft:overworld
+[12Jun2025 10:19:18.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was slain by Zombie
+[12Jun2025 10:19:31.636] [Server thread/INFO] [journeymap/]: Aszetah teleported to 447.5 -25.0 819.5 minecraft:overworld
+[12Jun2025 10:21:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Acquire Hardware]
+[12Jun2025 10:21:12.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Isn't It Iron Pick]
+[12Jun2025 10:21:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Diamonds!]
