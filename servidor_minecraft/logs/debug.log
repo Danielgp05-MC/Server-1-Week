@@ -1587,3 +1587,35 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 09:51:41.485] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
 [12Jun2025 09:51:41.486] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
 [12Jun2025 09:51:41.489] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[12Jun2025 09:52:30.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Monster Hunter]
+[12Jun2025 09:52:34.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 09:52:34.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 09:52:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Stone Age]
+[12Jun2025 09:52:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Getting an Upgrade]
+[12Jun2025 09:53:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Stone Age]
+[12Jun2025 09:53:56.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Getting an Upgrade]
+[12Jun2025 09:54:08.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Monster Hunter]
+[12Jun2025 09:55:22.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 fell from a high place
+[12Jun2025 09:55:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 09:56:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[12Jun2025 09:56:33.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[12Jun2025 09:56:44.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Enderman
+[12Jun2025 09:56:49.329] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 622.5 64.0 796.5 minecraft:overworld
+[12Jun2025 09:57:06.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Fishy Business]
+[12Jun2025 09:57:34.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 09:57:34.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 09:57:50.359] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 483.0 76.0 842.0 minecraft:overworld
+[12Jun2025 09:59:54.675] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 132.0 69.0 915.0 minecraft:overworld
+[12Jun2025 10:00:35.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[12Jun2025 10:00:55.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 tried to swim in lava
+[12Jun2025 10:01:01.702] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 150.5 71.0 900.5 minecraft:overworld
+[12Jun2025 10:01:07.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 burned to death
+[12Jun2025 10:01:11.728] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 150.5 71.0 900.5 minecraft:overworld
+[12Jun2025 10:01:15.671] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 143.0 73.0 942.0 minecraft:overworld
+[12Jun2025 10:02:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Colomer3213
+[12Jun2025 10:02:24.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10878, l='ServerLevel[world]', x=277.51, y=-9.44, z=125.53] died, message: 'Fletcher suffocated in a wall'
+[12Jun2025 10:02:25.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/154, l='ServerLevel[world]', x=225.52, y=-9.44, z=213.50] died, message: 'Fisherman suffocated in a wall'
+[12Jun2025 10:02:26.785] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 53.5 64.0 937.5 minecraft:overworld
+[12Jun2025 10:02:29.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Monster Hunter]
+[12Jun2025 10:02:34.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 10:02:34.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
