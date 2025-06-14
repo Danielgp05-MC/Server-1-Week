@@ -100,3 +100,42 @@
 [14Jun2025 08:03:56.395] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
 [14Jun2025 08:03:56.396] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
 [14Jun2025 08:03:56.400] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[14Jun2025 08:05:20.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] puteros
+[14Jun2025 08:06:14.704] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[14Jun2025 08:06:14.705] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[14Jun2025 08:06:14.706] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[14Jun2025 08:06:14.710] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[14Jun2025 08:07:38.700] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[14Jun2025 08:07:38.702] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[14Jun2025 08:07:38.702] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[14Jun2025 08:07:39.030] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[14Jun2025 08:09:00.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3876, l='ServerLevel[world]', x=-2682.30, y=2.03, z=-435.30] died, message: 'Fisherman drowned'
+[14Jun2025 08:09:15.819] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 08:09:25.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3877, l='ServerLevel[world]', x=-2682.30, y=2.04, z=-435.30] died, message: 'Fisherman drowned'
+[14Jun2025 08:09:39.658] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[14Jun2025 08:12:01.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[14Jun2025 08:12:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[14Jun2025 08:12:30.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Sweet Dreams]
+[14Jun2025 08:12:48.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:50043] logged in with entity id 7801 at (-3043.147520710425, 76.0, -377.2414553561353)
+[14Jun2025 08:12:48.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[14Jun2025 08:13:44.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[14Jun2025 08:13:44.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[14Jun2025 08:14:30.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] menos mal q era hacer las casas eh...
+[14Jun2025 08:14:42.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:47697] logged in with entity id 8791 at (-3140.8873967771556, 69.25220334025373, -337.5088651359802)
+[14Jun2025 08:14:42.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[14Jun2025 08:16:48.765] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1375, y=118, z=681}
+[14Jun2025 08:20:40.672] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[14Jun2025 08:20:40.673] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[14Jun2025 08:20:40.745] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[14Jun2025 08:20:40.746] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[14Jun2025 08:22:10.030] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -191.5 70.0 791.5 minecraft:overworld
+[14Jun2025 08:22:41.522] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 08:24:00.678] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -191.5 70.0 791.5 minecraft:overworld
+[14Jun2025 08:24:25.608] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 08:25:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Isn't It Iron Pick]
+[14Jun2025 08:27:03.492] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[14Jun2025 08:27:03.493] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[14Jun2025 08:27:03.493] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[14Jun2025 08:27:03.495] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[14Jun2025 08:31:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Skeleton
+[14Jun2025 08:31:31.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]

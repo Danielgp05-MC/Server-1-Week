@@ -103,7 +103,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-06-14 08:13:24 +0000",
       "minecraft:beach": "2025-06-12 09:53:09 +0000",
+      "minecraft:desert": "2025-06-14 08:13:20 +0000",
       "minecraft:mushroom_fields": "2025-06-12 10:39:00 +0000",
       "minecraft:river": "2025-06-12 09:51:38 +0000",
       "minecraft:lukewarm_ocean": "2025-06-12 09:54:55 +0000",
@@ -272,6 +274,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-06-12 10:23:39 +0000",
+      "cookie": "2025-06-14 08:05:52 +0000",
+      "potato": "2025-06-14 08:16:39 +0000",
       "cooked_beef": "2025-06-12 10:47:06 +0000",
       "cod": "2025-06-12 10:17:38 +0000",
       "melon_slice": "2025-06-12 09:54:09 +0000"
@@ -626,6 +630,7 @@
       "minecraft:cave_spider": "2025-06-12 10:16:39 +0000",
       "minecraft:skeleton": "2025-06-12 10:06:51 +0000",
       "minecraft:stray": "2025-06-12 10:37:12 +0000",
+      "minecraft:witch": "2025-06-14 08:27:00 +0000",
       "minecraft:spider": "2025-06-12 10:33:15 +0000",
       "minecraft:zombie": "2025-06-12 10:02:29 +0000"
     },
@@ -1954,6 +1959,168 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-12 11:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-14 08:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-14 08:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-14 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-14 08:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-14 08:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-14 08:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-14 08:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "onlyhammersandexcavators:recipes/tools/emerald_hammer": {
+    "criteria": {
+      "has_emerald": "2025-06-14 08:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-14 08:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "onlyhammersandexcavators:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-14 08:02:38 +0000"
+    },
+    "done": true
+  },
+  "onlyhammersandexcavators:recipes/tools/gold_excavator": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "onlyhammersandexcavators:recipes/tools/emerald_excavator": {
+    "criteria": {
+      "has_emerald": "2025-06-14 08:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-14 08:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-14 08:13:38 +0000"
     },
     "done": true
   },
