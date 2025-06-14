@@ -155,3 +155,30 @@
 [14Jun2025 13:50:20.715] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
 [14Jun2025 13:50:47.032] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
 [14Jun2025 13:55:58.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[14Jun2025 13:57:42.775] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[14Jun2025 13:58:37.053] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[14Jun2025 13:59:47.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[14Jun2025 14:00:14.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Sweet Dreams]
+[14Jun2025 14:00:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> zzzz
+[14Jun2025 14:00:21.616] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[14Jun2025 14:00:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> zzzz
+[14Jun2025 14:00:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> zzzzZZzzzzZZzz
+[14Jun2025 14:00:48.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ZZZZZZZzzzzzzzZZZZz
+[14Jun2025 14:00:58.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/20499, l='ServerLevel[world]', x=119.50, y=-9.44, z=1093.50] died, message: 'Leatherworker suffocated in a wall'
+[14Jun2025 14:04:36.402] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3039.5 76.0 -378.5 minecraft:overworld
+[14Jun2025 14:05:18.829] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[14Jun2025 14:07:42.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[14Jun2025 14:07:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[14Jun2025 14:08:38.174] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
+[14Jun2025 14:11:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> zzzz
+[14Jun2025 14:12:06.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[14Jun2025 14:12:06.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[14Jun2025 14:12:42.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:46067] logged in with entity id 33739 at (-3619.0235479028584, 71.0, -253.2815100559308)
+[14Jun2025 14:12:42.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[14Jun2025 14:12:43.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/31439, l='ServerLevel[world]', x=119.50, y=-9.44, z=1093.50] died, message: 'Farmer suffocated in a wall'
+[14Jun2025 14:13:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[14Jun2025 14:13:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[14Jun2025 14:14:20.607] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[14Jun2025 14:14:23.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[14Jun2025 14:14:29.097] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[14Jun2025 14:14:48.880] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
