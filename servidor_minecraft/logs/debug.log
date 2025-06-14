@@ -1627,3 +1627,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jun2025 08:35:45.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 08:40:45.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 08:40:45.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 08:45:45.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 08:45:45.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 08:48:34.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1517, y=82, z=743}
+[14Jun2025 08:50:45.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 08:50:45.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 08:55:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[14Jun2025 08:55:45.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 08:55:45.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

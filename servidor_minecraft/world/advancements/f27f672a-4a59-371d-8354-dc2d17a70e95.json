@@ -2087,6 +2087,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-14 08:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-06-14 08:21:14 +0000"
@@ -2102,6 +2108,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-14 08:38:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 08:47:20 +0000"
     },
     "done": true
   },

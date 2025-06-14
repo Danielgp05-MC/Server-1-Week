@@ -139,3 +139,5 @@
 [14Jun2025 08:27:03.495] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
 [14Jun2025 08:31:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Skeleton
 [14Jun2025 08:31:31.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[14Jun2025 08:48:34.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1517, y=82, z=743}
+[14Jun2025 08:55:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]

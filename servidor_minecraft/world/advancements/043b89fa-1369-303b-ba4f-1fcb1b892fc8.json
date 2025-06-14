@@ -111,6 +111,7 @@
       "minecraft:river": "2025-06-12 09:51:38 +0000",
       "minecraft:lukewarm_ocean": "2025-06-12 09:54:55 +0000",
       "minecraft:savanna": "2025-06-12 09:50:39 +0000",
+      "minecraft:plains": "2025-06-14 08:48:32 +0000",
       "minecraft:warm_ocean": "2025-06-12 10:41:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-12 10:41:39 +0000"
     },
@@ -274,6 +275,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-06-14 08:47:57 +0000",
       "bread": "2025-06-12 10:23:39 +0000",
       "cookie": "2025-06-14 08:05:52 +0000",
       "potato": "2025-06-14 08:16:39 +0000",
@@ -2032,6 +2034,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-14 08:13:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-06-14 08:49:56 +0000"
     },
     "done": true
   },
