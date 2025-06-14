@@ -105,3 +105,7 @@
 [14Jun2025 10:55:48.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aszetah> yo entrare si entras
 [14Jun2025 11:15:15.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah lost connection: Disconnected
 [14Jun2025 11:15:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah left the game
+[14Jun2025 11:41:39.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aszetah[/127.110.241.133:58039] logged in with entity id 6874 at (-3607.2182594024935, 63.0, -35.92094182076767)
+[14Jun2025 11:41:39.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah joined the game
+[14Jun2025 11:45:42.834] [Server thread/INFO] [journeymap/]: Aszetah teleported to -2179.5 -41.0 517.5 minecraft:overworld
+[14Jun2025 11:48:50.260] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
