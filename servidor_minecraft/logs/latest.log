@@ -161,3 +161,4 @@
 [14Jun2025 09:15:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> DURO
 [14Jun2025 09:15:36.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] queda*
 [14Jun2025 09:15:49.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] durisimo
+[14Jun2025 09:29:05.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3051, y=47, z=-365} BlockPos{x=-3051, y=48, z=-365}
