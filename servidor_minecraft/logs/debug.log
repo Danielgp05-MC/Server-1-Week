@@ -1635,3 +1635,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jun2025 08:55:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
 [14Jun2025 08:55:45.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 08:55:45.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 08:55:59.282] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 08:59:33.228] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 08:59:54.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ZZZ
+[14Jun2025 09:00:04.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3051, y=61, z=-375} BlockPos{x=-3051, y=62, z=-375}
+[14Jun2025 09:00:45.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 09:00:45.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 09:03:18.585] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 09:05:45.651] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[14Jun2025 09:05:45.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 09:05:45.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 09:05:55.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[14Jun2025 09:07:45.277] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[14Jun2025 09:10:45.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 09:10:45.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 09:13:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya habeis explorado todo sin mi? Xdd
+[14Jun2025 09:13:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ESTAMOS HACIENDO LA CASA
+[14Jun2025 09:13:56.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ENTRA YA
+[14Jun2025 09:13:59.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] yo aun voy casi por la mitad
+[14Jun2025 09:14:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] asi q durisimo
+[14Jun2025 09:14:28.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y no me grites q te quito los permisos eh
+[14Jun2025 09:14:48.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Colomer3213 no longer a server operator
+[14Jun2025 09:15:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Colomer3213 a server operator
+[14Jun2025 09:15:27.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] yo calculo q me quedo 1h o po ahi
+[14Jun2025 09:15:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> DURO
+[14Jun2025 09:15:36.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] queda*
+[14Jun2025 09:15:45.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 09:15:45.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 09:15:49.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] durisimo
