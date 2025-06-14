@@ -1686,3 +1686,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jun2025 09:45:45.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 09:46:10.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
 [14Jun2025 09:46:18.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was blown up by Creeper
+[14Jun2025 09:47:05.282] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 09:50:45.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 09:50:45.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 09:54:13.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Not Today, Thank You]
+[14Jun2025 09:55:45.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 09:55:45.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
