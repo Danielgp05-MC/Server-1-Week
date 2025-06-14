@@ -142,3 +142,16 @@
 [14Jun2025 13:37:22.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11311, l='ServerLevel[world]', x=119.50, y=-9.44, z=1093.50] died, message: 'Farmer suffocated in a wall'
 [14Jun2025 13:38:47.470] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 214.0 68.0 1064.0 minecraft:overworld
 [14Jun2025 13:39:15.379] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 99.0 105.0 1098.0 minecraft:overworld
+[14Jun2025 13:48:19.928] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[14Jun2025 13:48:25.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[14Jun2025 13:48:25.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[14Jun2025 13:48:33.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:46223] logged in with entity id 18058 at (103.67257417636685, 107.0, 1095.1828201107912)
+[14Jun2025 13:48:33.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[14Jun2025 13:49:36.855] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 265.5 71.0 170.5 minecraft:overworld
+[14Jun2025 13:49:41.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[14Jun2025 13:49:45.945] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 265.5 71.0 170.5 minecraft:overworld
+[14Jun2025 13:49:49.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Aszetah to Danielgp_05]
+[14Jun2025 13:50:07.719] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 515.0 89.0 207.0 minecraft:overworld
+[14Jun2025 13:50:20.715] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
+[14Jun2025 13:50:47.032] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[14Jun2025 13:55:58.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
