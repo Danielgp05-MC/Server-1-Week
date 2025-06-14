@@ -1672,3 +1672,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jun2025 09:30:45.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 09:35:45.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 09:35:45.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 09:39:00.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] estoy ya por las pantallas de la app, me queda ponerlas todas, hacer el video y me meto
+[14Jun2025 09:39:10.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ok
+[14Jun2025 09:39:20.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ya hemos matado al wither
+[14Jun2025 09:40:45.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 09:40:45.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 09:42:01.265] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 09:42:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[14Jun2025 09:43:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[14Jun2025 09:44:45.385] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 09:44:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> zzzz
+[14Jun2025 09:45:45.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 09:45:45.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 09:46:10.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[14Jun2025 09:46:18.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was blown up by Creeper
