@@ -103,3 +103,5 @@
 [14Jun2025 10:55:39.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sino pues a lo q q entreis
 [14Jun2025 10:55:41.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aszetah> valeee
 [14Jun2025 10:55:48.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aszetah> yo entrare si entras
+[14Jun2025 11:15:15.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah lost connection: Disconnected
+[14Jun2025 11:15:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah left the game
