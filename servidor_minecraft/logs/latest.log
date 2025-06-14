@@ -134,3 +134,11 @@
 [14Jun2025 13:31:33.412] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 101.0 107.0 1094.0 minecraft:overworld
 [14Jun2025 13:32:40.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
 [14Jun2025 13:33:17.628] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[14Jun2025 13:36:56.347] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[14Jun2025 13:37:05.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[14Jun2025 13:37:05.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[14Jun2025 13:37:12.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:35213] logged in with entity id 11267 at (100.46041329036258, 105.0, 1096.3137267937423)
+[14Jun2025 13:37:12.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[14Jun2025 13:37:22.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11311, l='ServerLevel[world]', x=119.50, y=-9.44, z=1093.50] died, message: 'Farmer suffocated in a wall'
+[14Jun2025 13:38:47.470] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 214.0 68.0 1064.0 minecraft:overworld
+[14Jun2025 13:39:15.379] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 99.0 105.0 1098.0 minecraft:overworld
