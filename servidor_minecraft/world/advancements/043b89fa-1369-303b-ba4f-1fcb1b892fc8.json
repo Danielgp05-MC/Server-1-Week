@@ -108,6 +108,7 @@
       "minecraft:beach": "2025-06-12 09:53:09 +0000",
       "minecraft:desert": "2025-06-14 08:13:20 +0000",
       "minecraft:mushroom_fields": "2025-06-12 10:39:00 +0000",
+      "minecraft:forest": "2025-06-14 10:19:23 +0000",
       "minecraft:river": "2025-06-12 09:51:38 +0000",
       "minecraft:lukewarm_ocean": "2025-06-12 09:54:55 +0000",
       "minecraft:savanna": "2025-06-12 09:50:39 +0000",
@@ -2242,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-14 10:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-06-14 09:00:15 +0000"
@@ -2587,6 +2594,12 @@
   "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-14 08:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-14 10:23:32 +0000"
     },
     "done": true
   },

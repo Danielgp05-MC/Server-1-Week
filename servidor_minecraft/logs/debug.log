@@ -1752,3 +1752,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jun2025 10:14:17.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Hot Stuff]
 [14Jun2025 10:15:45.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 10:15:45.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 10:20:45.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 10:20:45.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 10:23:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> zzzz
+[14Jun2025 10:24:01.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[14Jun2025 10:24:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[14Jun2025 10:25:45.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 10:25:45.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
