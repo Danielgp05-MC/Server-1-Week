@@ -125,3 +125,12 @@
 [14Jun2025 13:24:27.926] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
 [14Jun2025 13:24:39.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
 [14Jun2025 13:24:39.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[14Jun2025 13:25:29.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:60411] logged in with entity id 3429 at (-35.81046200844584, 66.0, 989.8862778896934)
+[14Jun2025 13:25:29.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[14Jun2025 13:28:45.686] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 104.0 120.0 1122.0 minecraft:overworld
+[14Jun2025 13:29:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[14Jun2025 13:29:12.249] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[14Jun2025 13:31:26.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 fell from a high place
+[14Jun2025 13:31:33.412] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 101.0 107.0 1094.0 minecraft:overworld
+[14Jun2025 13:32:40.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[14Jun2025 13:33:17.628] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
