@@ -174,3 +174,16 @@
 [14Jun2025 09:46:18.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was blown up by Creeper
 [14Jun2025 09:47:05.282] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
 [14Jun2025 09:54:13.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Not Today, Thank You]
+[14Jun2025 09:57:18.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Cover Me with Diamonds]
+[14Jun2025 09:59:19.613] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[14Jun2025 10:05:39.433] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[14Jun2025 10:06:07.903] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3044.5 77.0 -378.5 minecraft:overworld
+[14Jun2025 10:06:21.152] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3762.5 64.0 -336.5 minecraft:overworld
+[14Jun2025 10:07:53.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Colomer3213) moved too quickly! -8.202052491477843,0.0,-5.766265893321872
+[14Jun2025 10:09:21.076] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=1375, y=118, z=681}
+[14Jun2025 10:10:49.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[14Jun2025 10:10:49.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[14Jun2025 10:11:39.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:39529] logged in with entity id 56340 at (-3625.3087823010583, 64.84375002384186, -389.1177519602637)
+[14Jun2025 10:11:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[14Jun2025 10:13:44.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Voluntary Exile]
+[14Jun2025 10:14:17.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Hot Stuff]
