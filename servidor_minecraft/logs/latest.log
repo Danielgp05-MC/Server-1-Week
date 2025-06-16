@@ -1102,3 +1102,19 @@
 [16Jun2025 09:29:01.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/8127, l='ServerLevel[world]', x=126.58, y=-12.00, z=1101.56] died, message: 'Fletcher was slain by Zombie'
 [16Jun2025 09:29:14.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Aszetah to Danielgp_05]
 [16Jun2025 09:29:32.893] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:35:39.739] [Server thread/INFO] [journeymap/]: Aszetah teleported to 105.5 105.0 1100.5 minecraft:overworld
+[16Jun2025 09:35:42.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Aszetah to Danielgp_05]
+[16Jun2025 09:36:38.742] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:37:40.196] [Server thread/INFO] [journeymap/]: Aszetah teleported to 105.5 105.0 1100.5 minecraft:overworld
+[16Jun2025 09:37:46.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 18 block(s)]
+[16Jun2025 09:37:57.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 20 block(s)]
+[16Jun2025 09:38:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 38 block(s)]
+[16Jun2025 09:38:21.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 10 block(s)]
+[16Jun2025 09:38:47.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 10 block(s)]
+[16Jun2025 09:38:48.635] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:39:09.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 5 block(s)]
+[16Jun2025 09:39:19.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[16Jun2025 09:39:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 1 block(s)]
+[16Jun2025 09:40:29.996] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
+[16Jun2025 09:42:01.400] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:45:32.650] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
