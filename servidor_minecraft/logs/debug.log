@@ -2734,3 +2734,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jun2025 09:21:53.176] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3598.5 63.0 -7.5 minecraft:overworld
 [16Jun2025 09:22:11.375] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
 [16Jun2025 09:24:33.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[16Jun2025 09:25:31.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 09:25:31.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 09:25:54.108] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:26:22.122] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3039.5 76.0 -378.5 minecraft:overworld
+[16Jun2025 09:27:39.712] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:27:46.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Aszetah to Danielgp_05]
+[16Jun2025 09:28:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Aszetah to Danielgp_05]
+[16Jun2025 09:28:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah fell from a high place
+[16Jun2025 09:28:53.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/8128, l='ServerLevel[world]', x=128.70, y=-9.00, z=1096.30] died, message: 'Fletcher was slain by Zombie'
+[16Jun2025 09:29:01.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/8127, l='ServerLevel[world]', x=126.58, y=-12.00, z=1101.56] died, message: 'Fletcher was slain by Zombie'
+[16Jun2025 09:29:14.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Aszetah to Danielgp_05]
+[16Jun2025 09:29:32.893] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:30:31.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 09:30:31.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
