@@ -283,7 +283,8 @@
       "cooked_beef": "2025-06-12 10:47:06 +0000",
       "cod": "2025-06-12 10:17:38 +0000",
       "baked_potato": "2025-06-14 09:48:44 +0000",
-      "melon_slice": "2025-06-12 09:54:09 +0000"
+      "melon_slice": "2025-06-12 09:54:09 +0000",
+      "porkchop": "2025-06-16 10:44:24 +0000"
     },
     "done": false
   },
@@ -2970,9 +2971,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-16 10:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-16 09:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-16 10:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-16 10:43:17 +0000"
     },
     "done": true
   },
