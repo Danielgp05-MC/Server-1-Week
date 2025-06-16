@@ -1150,3 +1150,8 @@
 [16Jun2025 10:11:41.017] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -1196.0 63.0 -230.0 minecraft:overworld
 [16Jun2025 10:12:41.797] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
 [16Jun2025 10:13:15.824] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
+[16Jun2025 10:22:58.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[16Jun2025 10:23:43.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Aszetah to Danielgp_05]
+[16Jun2025 10:24:52.852] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 10:24:59.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[16Jun2025 10:25:37.418] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
