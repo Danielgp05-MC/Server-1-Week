@@ -2770,3 +2770,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jun2025 09:45:31.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 09:45:31.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jun2025 09:45:32.650] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:48:18.578] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -55.0 63.0 1128.0 minecraft:overworld
+[16Jun2025 09:48:33.939] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 09:48:35.815] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 103.0 105.0 1103.0 minecraft:overworld
+[16Jun2025 09:50:21.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[16Jun2025 09:50:31.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 09:50:31.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 09:50:35.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Set the weather to clear]
+[16Jun2025 09:50:42.371] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 104.0 105.0 1112.0 minecraft:overworld
+[16Jun2025 09:53:09.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[16Jun2025 09:53:48.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 84 block(s)]
+[16Jun2025 09:54:00.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 84 block(s)]
+[16Jun2025 09:54:23.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> ./fill -3599 62 -29 -3596 62 -9 minecraft:water
+[16Jun2025 09:54:45.765] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.0 105.0 1111.0 minecraft:overworld
+[16Jun2025 09:55:10.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 20 block(s)]
+[16Jun2025 09:55:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Skeleton
+[16Jun2025 09:55:31.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 09:55:31.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 09:55:34.470] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3490.5 27.0 -76.5 minecraft:overworld
