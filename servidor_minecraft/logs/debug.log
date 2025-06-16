@@ -2796,3 +2796,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jun2025 10:03:52.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
 [16Jun2025 10:05:31.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 10:05:31.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 10:06:53.145] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 105.0 105.0 1110.0 minecraft:overworld
+[16Jun2025 10:07:09.152] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3035.5 76.0 -379.5 minecraft:overworld
+[16Jun2025 10:07:36.688] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3081.0 66.0 -398.0 minecraft:overworld
+[16Jun2025 10:08:06.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[16Jun2025 10:08:53.207] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -2935.0 67.0 -468.0 minecraft:overworld
+[16Jun2025 10:08:58.708] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 10:09:03.466] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
+[16Jun2025 10:09:56.798] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -54.0 63.0 1129.0 minecraft:overworld
+[16Jun2025 10:10:31.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 10:10:31.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 10:10:54.155] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 109.0 105.0 1115.0 minecraft:overworld
+[16Jun2025 10:11:14.740] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 10:11:40.740] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3485.5 64.0 43.5 minecraft:overworld
+[16Jun2025 10:11:41.017] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -1196.0 63.0 -230.0 minecraft:overworld
+[16Jun2025 10:12:41.797] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[16Jun2025 10:13:15.824] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
+[16Jun2025 10:15:31.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 10:15:31.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
