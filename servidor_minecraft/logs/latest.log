@@ -97,3 +97,7 @@
 [17Jun2025 08:53:17.768] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 107.0 105.0 1110.0 minecraft:overworld
 [17Jun2025 08:55:46.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
 [17Jun2025 08:55:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[17Jun2025 09:01:51.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:41211] logged in with entity id 1174 at (102.3598193195903, 105.0, 1106.8467883033636)
+[17Jun2025 09:01:51.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[17Jun2025 09:03:39.028] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -339.0 63.0 1133.0 minecraft:overworld
+[17Jun2025 09:04:41.550] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 104.0 105.0 1122.0 minecraft:overworld
