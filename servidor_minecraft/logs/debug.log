@@ -1629,3 +1629,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jun2025 09:43:45.579] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.0 105.0 1123.0 minecraft:overworld
 [17Jun2025 09:46:42.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jun2025 09:46:42.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 09:51:01.797] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 105.0 104.0 1117.0 minecraft:overworld
+[17Jun2025 09:51:42.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 09:51:42.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 09:52:28.699] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3764.0 86.0 108.0 minecraft:overworld
+[17Jun2025 09:54:07.024] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
+[17Jun2025 09:55:26.614] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/10871, l='ServerLevel[world]', x=128.40, y=-9.00, z=1096.63] died, message: 'Cartographer was slain by Zombie'
+[17Jun2025 09:55:49.012] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10874, l='ServerLevel[world]', x=99.64, y=-13.00, z=1096.50] died, message: 'Farmer was slain by Zombie'
+[17Jun2025 09:55:49.514] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[17Jun2025 09:56:42.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 09:56:42.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 09:56:56.343] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3708.0 64.0 292.0 minecraft:overworld
