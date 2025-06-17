@@ -1618,3 +1618,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jun2025 09:36:39.659] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
 [17Jun2025 09:36:42.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jun2025 09:36:42.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 09:39:54.868] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -57.0 67.0 1085.0 minecraft:overworld
+[17Jun2025 09:40:08.656] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -323.0 71.0 776.0 minecraft:overworld
+[17Jun2025 09:40:25.521] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 512.0 63.0 392.0 minecraft:overworld
+[17Jun2025 09:40:36.280] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3452.0 70.0 60.0 minecraft:overworld
+[17Jun2025 09:41:07.573] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3692.0 70.0 224.0 minecraft:overworld
+[17Jun2025 09:41:42.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 09:41:42.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 09:43:02.248] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
+[17Jun2025 09:43:45.579] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.0 105.0 1123.0 minecraft:overworld
+[17Jun2025 09:46:42.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 09:46:42.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
