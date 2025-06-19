@@ -14,12 +14,16 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "volcanic_plains": "2025-06-12 09:57:50 +0000",
+      "spider_nest": "2025-06-18 08:51:28 +0000",
       "woodland": "2025-06-12 10:24:16 +0000",
       "dryland": "2025-06-12 10:48:05 +0000",
+      "mystic_grove": "2025-06-18 08:48:15 +0000",
       "wasteland": "2025-06-12 10:24:32 +0000",
       "old_growth_woodland": "2025-06-12 09:58:35 +0000",
       "lush_desert": "2025-06-12 10:48:43 +0000",
+      "redwood_forest": "2025-06-18 08:50:52 +0000",
       "scrubland": "2025-06-12 09:43:02 +0000",
+      "snowy_fir_clearing": "2025-06-18 09:56:43 +0000",
       "bayou": "2025-06-17 09:40:26 +0000",
       "floodplain": "2025-06-12 10:23:56 +0000",
       "tropics": "2025-06-12 10:38:15 +0000",
@@ -271,6 +275,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_ocean": "2025-06-18 09:51:07 +0000",
       "minecraft:beach": "2025-06-12 10:01:22 +0000",
       "minecraft:desert": "2025-06-12 10:25:27 +0000",
       "minecraft:mushroom_fields": "2025-06-12 10:38:23 +0000",
@@ -513,6 +518,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-06-18 08:52:35 +0000",
+      "minecraft:skeleton": "2025-06-18 08:51:14 +0000",
       "minecraft:enderman": "2025-06-12 09:56:52 +0000",
       "minecraft:stray": "2025-06-12 10:36:25 +0000",
       "minecraft:spider": "2025-06-16 10:42:35 +0000",
@@ -2524,6 +2531,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-17 09:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-17 09:04:16 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-17 09:40:46 +0000"
@@ -2536,27 +2555,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-17 09:04:16 +0000"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-06-17 09:40:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-17 09:04:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-17 09:40:46 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-18 08:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-18 08:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-18 08:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-18 08:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-18 08:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-18 08:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-18 08:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-18 08:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-18 08:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-18 09:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-18 10:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-18 11:04:05 +0000"
     },
     "done": true
   },

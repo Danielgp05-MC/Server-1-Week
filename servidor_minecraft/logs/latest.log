@@ -1,123 +1,110 @@
-[17Jun2025 08:45:56.716] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[17Jun2025 08:45:56.720] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
-[17Jun2025 08:45:56.721] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[17Jun2025 08:45:58.545] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[17Jun2025 08:45:58.721] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[17Jun2025 08:45:59.250] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[17Jun2025 08:46:00.540] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[17Jun2025 08:46:00.632] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[17Jun2025 08:46:00.663] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.664] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.666] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.666] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.773] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.774] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.774] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.775] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.776] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.806] [main/WARN] [mixin/]: Reference map 'formations.mixins.refmap.json' for formations.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:00.807] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jun2025 08:46:02.788] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[17Jun2025 08:46:02.884] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[17Jun2025 08:46:03.077] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[17Jun2025 08:46:10.839] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[17Jun2025 08:46:10.843] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[17Jun2025 08:46:11.064] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
-[17Jun2025 08:46:11.067] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
-[17Jun2025 08:46:11.086] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[17Jun2025 08:46:13.043] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[17Jun2025 08:46:13.043] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[17Jun2025 08:46:13.044] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[17Jun2025 08:46:13.044] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[17Jun2025 08:46:13.044] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[17Jun2025 08:46:13.044] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[17Jun2025 08:46:13.045] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[17Jun2025 08:46:13.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[17Jun2025 08:46:14.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.1 Target: null
-[17Jun2025 08:46:14.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Starting version check at https://api.modrinth.com/updates/ibnDR6oc/forge_updates.json
-[17Jun2025 08:46:14.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Found status: OUTDATED Current: 9.0.1 Target: 9.1.1+mod
-[17Jun2025 08:46:14.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[17Jun2025 08:46:14.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.1-6.0.0-beta.47 Target: null
-[17Jun2025 08:46:14.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Starting version check at https://api.modrinth.com/updates/Vr3O6THr/forge_updates.json
-[17Jun2025 08:46:14.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Found status: OUTDATED Current: 3.0.0 Target: 3.0.1
-[17Jun2025 08:46:14.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[17Jun2025 08:46:14.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[17Jun2025 08:46:14.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[17Jun2025 08:46:14.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.1-1.4.10 Target: 1.21.1-1.4.12
-[17Jun2025 08:46:14.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17Jun2025 08:46:15.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
-[17Jun2025 08:46:15.607] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17Jun2025 08:46:17.679] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
-[17Jun2025 08:46:17.682] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
-[17Jun2025 08:46:17.684] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
-[17Jun2025 08:46:17.689] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
-[17Jun2025 08:46:17.692] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
-[17Jun2025 08:46:17.697] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
-[17Jun2025 08:46:17.698] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
-[17Jun2025 08:46:17.698] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
-[17Jun2025 08:46:17.701] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
-[17Jun2025 08:46:18.924] [Worker-Main-3/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element minecraft:loot_table/wabi_sabi_structures:chests/generic/generic_firework_dispenser - Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]
-[17Jun2025 08:46:20.461] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2481 recipes
-[17Jun2025 08:46:20.788] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1982 advancements
-[17Jun2025 08:46:21.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
-[17Jun2025 08:46:21.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[17Jun2025 08:46:21.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[17Jun2025 08:46:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[17Jun2025 08:46:22.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[17Jun2025 08:46:22.276] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[17Jun2025 08:46:22.356] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17Jun2025 08:46:22.356] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[17Jun2025 08:46:22.356] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17Jun2025 08:46:22.357] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[17Jun2025 08:46:22.376] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[17Jun2025 08:46:23.326] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[17Jun2025 08:46:23.327] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[17Jun2025 08:46:23.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[17Jun2025 08:46:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[17Jun2025 08:46:42.163] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jun2025 08:46:42.164] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jun2025 08:46:42.164] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jun2025 08:46:42.165] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jun2025 08:46:42.165] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jun2025 08:46:42.165] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jun2025 08:46:42.166] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jun2025 08:46:42.534] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3382 ms
-[17Jun2025 08:46:42.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.162s)! For help, type "help"
-[17Jun2025 08:46:42.554] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[17Jun2025 08:46:42.557] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
-[17Jun2025 08:46:42.559] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeClientHooks@4932f6f3 for service interface journeymap.api.services.ClientPlatformService
-[17Jun2025 08:46:42.564] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeHooks@3bc5c152 for service interface journeymap.api.services.CommonPlatformService
-[17Jun2025 08:47:50.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:56911] logged in with entity id 77 at (101.46739161775378, 105.0, 1103.5699553993693)
-[17Jun2025 08:47:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
-[17Jun2025 08:47:55.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
-[17Jun2025 08:47:55.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
-[17Jun2025 08:51:26.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:45087] logged in with entity id 196 at (101.46739161775378, 105.0, 1103.5699553993693)
-[17Jun2025 08:51:26.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
-[17Jun2025 08:52:06.949] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -344.0 63.0 1133.0 minecraft:overworld
-[17Jun2025 08:53:17.768] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 107.0 105.0 1110.0 minecraft:overworld
-[17Jun2025 08:55:46.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
-[17Jun2025 08:55:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
-[17Jun2025 09:01:51.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:41211] logged in with entity id 1174 at (102.3598193195903, 105.0, 1106.8467883033636)
-[17Jun2025 09:01:51.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
-[17Jun2025 09:03:39.028] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -339.0 63.0 1133.0 minecraft:overworld
-[17Jun2025 09:04:41.550] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 104.0 105.0 1122.0 minecraft:overworld
-[17Jun2025 09:17:21.534] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -323.0 64.0 1129.0 minecraft:overworld
-[17Jun2025 09:23:02.192] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.0 105.0 1119.0 minecraft:overworld
-[17Jun2025 09:29:33.362] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -327.0 63.0 1129.0 minecraft:overworld
-[17Jun2025 09:29:48.728] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 109.0 105.0 1122.0 minecraft:overworld
-[17Jun2025 09:35:14.539] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -186.0 71.0 791.0 minecraft:overworld
-[17Jun2025 09:36:39.659] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
-[17Jun2025 09:39:54.868] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -57.0 67.0 1085.0 minecraft:overworld
-[17Jun2025 09:40:08.656] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -323.0 71.0 776.0 minecraft:overworld
-[17Jun2025 09:40:25.521] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 512.0 63.0 392.0 minecraft:overworld
-[17Jun2025 09:40:36.280] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3452.0 70.0 60.0 minecraft:overworld
-[17Jun2025 09:41:07.573] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3692.0 70.0 224.0 minecraft:overworld
-[17Jun2025 09:43:02.248] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
-[17Jun2025 09:43:45.579] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.0 105.0 1123.0 minecraft:overworld
-[17Jun2025 09:51:01.797] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 105.0 104.0 1117.0 minecraft:overworld
-[17Jun2025 09:52:28.699] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3764.0 86.0 108.0 minecraft:overworld
-[17Jun2025 09:54:07.024] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 98.5 105.0 1096.5 minecraft:overworld
-[17Jun2025 09:55:26.614] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/10871, l='ServerLevel[world]', x=128.40, y=-9.00, z=1096.63] died, message: 'Cartographer was slain by Zombie'
-[17Jun2025 09:55:49.012] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10874, l='ServerLevel[world]', x=99.64, y=-13.00, z=1096.50] died, message: 'Farmer was slain by Zombie'
-[17Jun2025 09:55:49.514] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
-[17Jun2025 09:56:56.343] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3708.0 64.0 292.0 minecraft:overworld
+[19Jun2025 08:14:52.119] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[19Jun2025 08:14:52.122] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
+[19Jun2025 08:14:52.123] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[19Jun2025 08:14:53.478] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[19Jun2025 08:14:53.648] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[19Jun2025 08:14:54.089] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[19Jun2025 08:14:55.091] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Jun2025 08:14:55.191] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[19Jun2025 08:14:55.224] [main/WARN] [mixin/]: Reference map 'betterdungeons.refmap.json' for betterdungeons.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.225] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.226] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.227] [main/WARN] [mixin/]: Reference map 'betterwitchhuts.refmap.json' for betterwitchhuts.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.235] [main/WARN] [mixin/]: Reference map 'betteroceanmonuments.refmap.json' for betteroceanmonuments.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.238] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.240] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.243] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.336] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.337] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.338] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.339] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.340] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.346] [main/WARN] [mixin/]: Reference map 'formations.mixins.refmap.json' for formations.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.348] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.348] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:55.349] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jun2025 08:14:56.511] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[19Jun2025 08:14:56.612] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[19Jun2025 08:14:56.654] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19Jun2025 08:15:04.740] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[19Jun2025 08:15:04.741] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[19Jun2025 08:15:04.745] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
+[19Jun2025 08:15:05.033] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[19Jun2025 08:15:05.035] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[19Jun2025 08:15:05.065] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[19Jun2025 08:15:06.521] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19Jun2025 08:15:06.521] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[19Jun2025 08:15:06.521] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[19Jun2025 08:15:06.521] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[19Jun2025 08:15:06.522] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[19Jun2025 08:15:06.522] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[19Jun2025 08:15:06.522] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[19Jun2025 08:15:06.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[19Jun2025 08:15:07.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.1 Target: null
+[19Jun2025 08:15:07.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Starting version check at https://api.modrinth.com/updates/ibnDR6oc/forge_updates.json
+[19Jun2025 08:15:07.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Found status: OUTDATED Current: 9.0.1 Target: 9.1.1+mod
+[19Jun2025 08:15:07.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[19Jun2025 08:15:07.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA_OUTDATED Current: 1.21.1-6.0.0-beta.47 Target: 1.21.1-6.0.0-beta.50
+[19Jun2025 08:15:07.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Starting version check at https://api.modrinth.com/updates/Vr3O6THr/forge_updates.json
+[19Jun2025 08:15:07.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Found status: OUTDATED Current: 3.0.0 Target: 3.0.1
+[19Jun2025 08:15:07.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[19Jun2025 08:15:07.979] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[19Jun2025 08:15:07.979] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[19Jun2025 08:15:08.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.1-1.4.10 Target: 1.21.1-1.4.12
+[19Jun2025 08:15:08.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Jun2025 08:15:08.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
+[19Jun2025 08:15:08.822] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19Jun2025 08:15:11.151] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.153] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.155] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.161] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.165] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.169] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_absi_palace/start_pool`: { spacing: 50, separation: 25, salt: 19482856, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.169] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_accum_quad/start_pool`: { spacing: 50, separation: 25, salt: 28482856, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.169] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_blaze_tower/start_pool`: { spacing: 50, separation: 25, salt: 37482856, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.170] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_center_square/start_pool`: { spacing: 50, separation: 25, salt: 46482856, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.170] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_giant_crimson_tree/start_pool`: { spacing: 50, separation: 25, salt: 55482856, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.170] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_obsi_house/start_pool`: { spacing: 50, separation: 25, salt: 64482856, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.177] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.178] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.178] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[19Jun2025 08:15:11.180] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[19Jun2025 08:15:12.308] [Worker-Main-3/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element minecraft:loot_table/wabi_sabi_structures:chests/generic/generic_firework_dispenser - Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]
+[19Jun2025 08:15:13.708] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2481 recipes
+[19Jun2025 08:15:14.016] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1989 advancements
+[19Jun2025 08:15:15.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[19Jun2025 08:15:15.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Jun2025 08:15:15.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Jun2025 08:15:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Jun2025 08:15:15.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Jun2025 08:15:15.528] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Jun2025 08:15:15.600] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Jun2025 08:15:15.601] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Jun2025 08:15:15.601] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Jun2025 08:15:15.601] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Jun2025 08:15:15.628] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[19Jun2025 08:15:15.719] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[19Jun2025 08:15:16.341] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[19Jun2025 08:15:16.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Jun2025 08:15:29.812] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.62.206.166:33721] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[19Jun2025 08:15:30.654] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.62.206.166:37427] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[19Jun2025 08:15:31.264] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.62.206.166:40895] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[19Jun2025 08:15:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Jun2025 08:15:39.457] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.62.206.166:43009] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[19Jun2025 08:15:39.628] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 08:15:39.629] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 08:15:39.630] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 08:15:39.630] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 08:15:39.631] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 08:15:39.631] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 08:15:39.631] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 08:15:39.960] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3520 ms
+[19Jun2025 08:15:39.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.339s)! For help, type "help"
+[19Jun2025 08:15:39.978] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Jun2025 08:15:39.980] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[19Jun2025 08:15:39.982] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeClientHooks@2a9e5d33 for service interface journeymap.api.services.ClientPlatformService
+[19Jun2025 08:15:39.983] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeHooks@65715039 for service interface journeymap.api.services.CommonPlatformService
+[19Jun2025 08:15:45.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.62.206.166:36391] logged in with entity id 80 at (103.68181448777308, 105.0, 1117.2356317772078)
+[19Jun2025 08:15:45.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[19Jun2025 08:23:34.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:51329] logged in with entity id 800 at (-3046.7907340499455, 83.0, -374.37636228652605)
+[19Jun2025 08:23:34.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game

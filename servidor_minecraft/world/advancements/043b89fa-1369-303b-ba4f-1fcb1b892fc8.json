@@ -13,20 +13,41 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "volcanic_plains": "2025-06-12 09:54:43 +0000",
+      "hot_springs": "2025-06-18 09:26:12 +0000",
+      "spider_nest": "2025-06-18 08:51:30 +0000",
+      "muskeg": "2025-06-18 09:26:03 +0000",
       "woodland": "2025-06-14 08:32:34 +0000",
       "dryland": "2025-06-12 10:43:38 +0000",
       "wasteland": "2025-06-12 10:51:43 +0000",
-      "old_growth_woodland": "2025-06-12 09:59:32 +0000",
+      "snowblossom_grove": "2025-06-18 09:30:50 +0000",
       "lush_desert": "2025-06-12 10:49:32 +0000",
+      "redwood_forest": "2025-06-18 08:47:14 +0000",
       "scrubland": "2025-06-12 09:39:46 +0000",
       "bayou": "2025-06-12 09:52:10 +0000",
       "floodplain": "2025-06-12 09:53:30 +0000",
       "lush_savanna": "2025-06-12 10:50:06 +0000",
+      "seasonal_forest": "2025-06-18 09:24:36 +0000",
+      "highland": "2025-06-18 09:25:37 +0000",
+      "marsh": "2025-06-18 10:21:11 +0000",
+      "volcanic_plains": "2025-06-12 09:54:43 +0000",
+      "wetland": "2025-06-18 10:07:09 +0000",
+      "mystic_grove": "2025-06-18 08:47:51 +0000",
+      "cold_desert": "2025-06-18 09:38:05 +0000",
+      "old_growth_woodland": "2025-06-12 09:59:32 +0000",
+      "maple_woods": "2025-06-18 09:23:29 +0000",
+      "grassland": "2025-06-18 09:22:52 +0000",
+      "snowy_fir_clearing": "2025-06-18 09:37:45 +0000",
+      "snowy_coniferous_forest": "2025-06-18 09:54:28 +0000",
+      "tundra": "2025-06-18 09:44:14 +0000",
+      "gravel_beach": "2025-06-18 10:06:29 +0000",
+      "overgrown_greens": "2025-06-18 09:21:41 +0000",
       "tropics": "2025-06-12 10:39:26 +0000",
       "mediterranean_forest": "2025-06-12 10:59:24 +0000",
       "rainforest": "2025-06-12 09:53:54 +0000",
-      "crag": "2025-06-12 09:50:06 +0000"
+      "bog": "2025-06-18 10:06:56 +0000",
+      "crag": "2025-06-12 09:50:06 +0000",
+      "snowy_maple_woods": "2025-06-18 09:30:05 +0000",
+      "coniferous_forest": "2025-06-18 09:25:08 +0000"
     },
     "done": false
   },
@@ -106,11 +127,21 @@
     "criteria": {
       "minecraft:badlands": "2025-06-14 08:13:24 +0000",
       "minecraft:beach": "2025-06-12 09:53:09 +0000",
-      "minecraft:desert": "2025-06-14 08:13:20 +0000",
       "minecraft:mushroom_fields": "2025-06-12 10:39:00 +0000",
       "minecraft:forest": "2025-06-14 10:19:23 +0000",
       "minecraft:river": "2025-06-12 09:51:38 +0000",
       "minecraft:lukewarm_ocean": "2025-06-12 09:54:55 +0000",
+      "minecraft:stony_shore": "2025-06-18 09:45:17 +0000",
+      "minecraft:snowy_plains": "2025-06-18 09:59:51 +0000",
+      "minecraft:snowy_taiga": "2025-06-18 09:30:55 +0000",
+      "minecraft:ice_spikes": "2025-06-18 10:05:57 +0000",
+      "minecraft:frozen_ocean": "2025-06-18 09:45:12 +0000",
+      "minecraft:desert": "2025-06-14 08:13:20 +0000",
+      "minecraft:frozen_river": "2025-06-18 09:30:49 +0000",
+      "minecraft:windswept_forest": "2025-06-18 09:30:00 +0000",
+      "minecraft:swamp": "2025-06-18 10:08:27 +0000",
+      "minecraft:birch_forest": "2025-06-18 08:49:33 +0000",
+      "minecraft:snowy_beach": "2025-06-18 09:50:23 +0000",
       "minecraft:savanna": "2025-06-12 09:50:39 +0000",
       "minecraft:plains": "2025-06-14 08:48:32 +0000",
       "minecraft:warm_ocean": "2025-06-12 10:41:58 +0000",
@@ -284,7 +315,8 @@
       "cod": "2025-06-12 10:17:38 +0000",
       "baked_potato": "2025-06-14 09:48:44 +0000",
       "melon_slice": "2025-06-12 09:54:09 +0000",
-      "porkchop": "2025-06-16 10:44:24 +0000"
+      "porkchop": "2025-06-16 10:44:24 +0000",
+      "golden_carrot": "2025-06-18 10:13:51 +0000"
     },
     "done": false
   },
@@ -2965,79 +2997,31 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
+      "has_stripped_logs": "2025-06-16 09:31:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
+      "has_log": "2025-06-16 09:31:57 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 11:01:32 +0000"
-    },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-06-16 09:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-16 09:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-16 09:56:56 +0000"
     },
@@ -3046,12 +3030,6 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-06-16 10:43:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-16 09:31:57 +0000"
     },
     "done": true
   },
@@ -3067,21 +3045,237 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_log": "2025-06-16 09:31:57 +0000"
+      "has_pumpkin": "2025-06-17 12:28:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "betterdungeons:root": {
     "criteria": {
-      "has_gunpowder": "2025-06-16 09:56:56 +0000"
+      "always": "2025-06-18 08:41:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_gunpowder": "2025-06-16 09:56:56 +0000"
+      "has_paper": "2025-06-18 08:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-18 08:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-18 09:00:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_petals": {
+    "criteria": {
+      "has_white_petals": "2025-06-18 09:36:34 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-06-18 09:37:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-18 09:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-18 09:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-18 09:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-18 10:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-18 10:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-06-18 10:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-18 10:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-18 10:50:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-18 11:05:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-18 11:04:41 +0000"
     },
     "done": true
   },
