@@ -108,3 +108,31 @@
 [19Jun2025 08:15:45.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
 [19Jun2025 08:23:34.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:51329] logged in with entity id 800 at (-3046.7907340499455, 83.0, -374.37636228652605)
 [19Jun2025 08:23:34.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[19Jun2025 08:25:38.040] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -435.0 49.0 1119.0 minecraft:overworld
+[19Jun2025 08:26:25.361] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[19Jun2025 08:31:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[19Jun2025 08:33:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 fell from a high place
+[19Jun2025 08:33:20.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 fell from a high place
+[19Jun2025 08:33:25.757] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 102.0 110.0 1104.0 minecraft:overworld
+[19Jun2025 08:33:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[19Jun2025 08:33:36.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 fell from a high place
+[19Jun2025 08:33:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 fell from a high place
+[19Jun2025 08:33:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 fell from a high place
+[19Jun2025 08:33:49.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 moved too quickly! 13.716438242652046,23.0,0.8953254190128064
+[19Jun2025 08:33:53.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 fell from a high place
+[19Jun2025 08:33:57.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[19Jun2025 08:34:03.097] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to 97.5 106.0 1093.5 minecraft:overworld
+[19Jun2025 08:34:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[19Jun2025 08:35:50.907] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[19Jun2025 08:36:02.641] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3596.5 63.0 0.5 minecraft:overworld
+[19Jun2025 08:36:10.672] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[19Jun2025 08:36:18.227] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3596.5 63.0 0.5 minecraft:overworld
+[19Jun2025 08:37:16.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[19Jun2025 08:37:32.220] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[19Jun2025 08:38:00.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> zzzzz
+[19Jun2025 08:38:27.698] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -444.0 50.0 1117.0 minecraft:overworld
+[19Jun2025 08:38:34.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[19Jun2025 08:39:41.636] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[19Jun2025 08:42:09.530] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3750.0 83.0 146.0 minecraft:overworld
+[19Jun2025 08:42:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[19Jun2025 08:42:58.406] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
