@@ -2034,3 +2034,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Jun2025 09:33:57.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jun2025 09:33:57.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Jun2025 09:34:04.505] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -285.0 63.0 622.0 minecraft:overworld
+[20Jun2025 09:34:24.789] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[20Jun2025 09:34:44.826] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3035.5 76.0 -379.5 minecraft:overworld
+[20Jun2025 09:34:58.384] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[20Jun2025 09:36:19.928] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 108.0 116.0 1105.0 minecraft:overworld
+[20Jun2025 09:37:53.278] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.0 116.0 1119.0 minecraft:overworld
+[20Jun2025 09:38:46.745] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[20Jun2025 09:38:57.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 09:38:57.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 09:40:22.484] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[20Jun2025 09:40:39.363] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[20Jun2025 09:40:39.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> zzzzzzzzzzzzzzzzz
+[20Jun2025 09:40:59.834] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 107.0 116.0 1106.0 minecraft:overworld
+[20Jun2025 09:41:01.050] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3039.5 76.0 -378.5 minecraft:overworld
+[20Jun2025 09:41:02.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[20Jun2025 09:41:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[20Jun2025 09:41:21.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[20Jun2025 09:41:40.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was doomed to fall by Colomer3213
+[20Jun2025 09:41:44.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[20Jun2025 09:41:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[20Jun2025 09:41:46.643] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 110.0 116.0 1104.0 minecraft:overworld
+[20Jun2025 09:41:47.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[20Jun2025 09:42:18.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was killed
+[20Jun2025 09:42:18.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Aszetah]
+[20Jun2025 09:43:57.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 09:43:57.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 09:43:58.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[20Jun2025 09:43:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[20Jun2025 09:44:05.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[20Jun2025 09:44:10.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[20Jun2025 09:44:16.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
