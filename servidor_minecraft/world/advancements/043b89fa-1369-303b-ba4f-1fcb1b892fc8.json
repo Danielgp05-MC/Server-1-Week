@@ -40,6 +40,7 @@
       "snowy_coniferous_forest": "2025-06-18 09:54:28 +0000",
       "tundra": "2025-06-18 09:44:14 +0000",
       "gravel_beach": "2025-06-18 10:06:29 +0000",
+      "undergrowth": "2025-06-23 09:25:14 +0000",
       "overgrown_greens": "2025-06-18 09:21:41 +0000",
       "tropics": "2025-06-12 10:39:26 +0000",
       "mediterranean_forest": "2025-06-12 10:59:24 +0000",
@@ -678,6 +679,7 @@
       "minecraft:enderman": "2025-06-14 13:27:37 +0000",
       "minecraft:witch": "2025-06-14 08:27:00 +0000",
       "minecraft:spider": "2025-06-12 10:33:15 +0000",
+      "minecraft:piglin_brute": "2025-06-23 09:32:31 +0000",
       "minecraft:wither_skeleton": "2025-06-23 08:57:16 +0000",
       "minecraft:zombie": "2025-06-12 10:02:29 +0000"
     },
@@ -3325,6 +3327,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-23 09:20:11 +0000",
       "minecraft:nether_wastes": "2025-06-23 08:58:31 +0000",
       "minecraft:warped_forest": "2025-06-23 09:12:21 +0000"
     },
@@ -3384,6 +3387,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-06-23 09:29:40 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-23 08:53:28 +0000"
@@ -3399,6 +3408,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-06-23 08:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-23 09:27:34 +0000"
     },
     "done": true
   },

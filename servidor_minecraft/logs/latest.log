@@ -311,3 +311,74 @@
 [23Jun2025 09:19:53.413] [Server thread/INFO] [journeymap/]: Aszetah teleported to -423.0 74.0 210.0 minecraft:the_nether
 [23Jun2025 09:19:55.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was doomed to fall
 [23Jun2025 09:20:08.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[23Jun2025 09:22:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:22:40.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[23Jun2025 09:22:43.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:23:03.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[23Jun2025 09:23:03.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[23Jun2025 09:23:16.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/29604, l='ServerLevel[world]', x=-353.30, y=69.36, z=137.30] died: Desert Blaze was slain by Danielgp_05
+[23Jun2025 09:24:11.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:25:06.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/29734, l='ServerLevel[world]', x=-346.70, y=37.51, z=165.30] died: Desert Blaze was slain by Danielgp_05
+[23Jun2025 09:25:21.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:26:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:26:40.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:59355] logged in with entity id 30160 at (-373.5923222756905, 66.0, 96.40243297548854)
+[23Jun2025 09:26:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[23Jun2025 09:26:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:27:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:27:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:27:21.597] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:27:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Those Were the Days]
+[23Jun2025 09:27:26.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Those Were the Days]
+[23Jun2025 09:27:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Those Were the Days]
+[23Jun2025 09:28:18.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [War Pigs]
+[23Jun2025 09:28:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:29:40.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [War Pigs]
+[23Jun2025 09:30:00.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:30:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [War Pigs]
+[23Jun2025 09:30:58.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> :/
+[23Jun2025 09:31:15.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Into Fire]
+[23Jun2025 09:31:22.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:31:28.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:31:30.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:31:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was shot by Piglin
+[23Jun2025 09:31:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:31:49.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:32:02.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[23Jun2025 09:32:03.325] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:32:08.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Piglin Brute
+[23Jun2025 09:32:12.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:32:16.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Piglin Brute
+[23Jun2025 09:32:38.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was slain by Piglin Brute
+[23Jun2025 09:32:45.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[23Jun2025 09:32:50.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Piglin Brute
+[23Jun2025 09:32:57.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:33:17.236] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[23Jun2025 09:34:52.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:36:24.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:37:32.247] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[23Jun2025 09:42:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:42:38.440] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[23Jun2025 09:42:40.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:43:08.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[23Jun2025 09:46:12.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:47:44.071] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[23Jun2025 09:47:51.358] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[23Jun2025 09:47:55.129] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to 97.5 106.0 1093.5 minecraft:overworld
+[23Jun2025 09:48:05.457] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[23Jun2025 09:49:10.577] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[23Jun2025 09:49:16.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[23Jun2025 09:49:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[23Jun2025 09:49:25.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.137.26.182:33705] logged in with entity id 37085 at (113.02617188911373, 110.0, 1106.2997732863405)
+[23Jun2025 09:49:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[23Jun2025 09:49:36.666] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 96.0 105.0 1107.0 minecraft:overworld
+[23Jun2025 09:49:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ZZZ
+[23Jun2025 09:49:51.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[23Jun2025 09:49:51.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[23Jun2025 09:49:58.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.137.26.182:38627] logged in with entity id 37422 at (112.93030455588999, 110.0, 1106.787540103587)
+[23Jun2025 09:49:58.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[23Jun2025 09:49:59.097] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to 97.5 106.0 1093.5 minecraft:overworld
+[23Jun2025 09:50:03.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:50:13.484] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3596.5 63.0 0.5 minecraft:overworld
+[23Jun2025 09:50:16.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:50:25.568] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to 97.5 106.0 1093.5 minecraft:overworld
+[23Jun2025 09:50:29.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
