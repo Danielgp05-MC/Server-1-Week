@@ -1877,3 +1877,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jun2025 08:18:07.655] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [23Jun2025 08:18:07.658] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [23Jun2025 08:18:07.659] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[23Jun2025 08:19:29.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[23Jun2025 08:19:36.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:19:37.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 08:20:55.965] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[23Jun2025 08:22:41.545] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[23Jun2025 08:22:49.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> zzzz
+[23Jun2025 08:23:12.531] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[23Jun2025 08:24:36.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:24:36.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 08:25:33.425] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
+[23Jun2025 08:25:52.209] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[23Jun2025 08:26:40.904] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 119.0 105.0 1108.0 minecraft:overworld
+[23Jun2025 08:27:02.382] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3035.5 76.0 -379.5 minecraft:overworld
+[23Jun2025 08:27:04.459] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3425.0 72.0 -655.0 minecraft:overworld
+[23Jun2025 08:27:23.715] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -326.0 63.0 1120.0 minecraft:overworld
+[23Jun2025 08:27:38.666] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[23Jun2025 08:29:03.658] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 116.0 106.0 1116.0 minecraft:overworld
