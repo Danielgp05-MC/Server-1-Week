@@ -400,3 +400,10 @@
 [23Jun2025 10:02:32.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ZZZZ
 [23Jun2025 10:02:43.136] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
 [23Jun2025 10:10:24.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 10:13:03.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aszetah lost connection: Disconnected
+[23Jun2025 10:13:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah left the game
+[23Jun2025 10:13:43.542] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[23Jun2025 10:14:37.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 fell from a high place
+[23Jun2025 10:15:38.351] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 96.0 105.0 1108.0 minecraft:overworld
+[23Jun2025 10:18:35.601] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
+[23Jun2025 10:19:15.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
