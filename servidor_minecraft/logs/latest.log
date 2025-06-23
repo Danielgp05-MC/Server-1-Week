@@ -596,3 +596,57 @@
 [23Jun2025 11:01:58.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
 [23Jun2025 11:02:02.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
 [23Jun2025 11:02:24.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 11:02:50.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:53045] logged in with entity id 58652 at (-3595.793787229036, 63.0, -36.664828586293716)
+[23Jun2025 11:02:50.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[23Jun2025 11:02:56.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 11:03:05.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 2 block(s)]
+[23Jun2025 11:03:08.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Set own game mode to Survival Mode]
+[23Jun2025 11:03:10.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 11:03:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 11:03:20.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 11:03:41.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 25 block(s)]
+[23Jun2025 11:03:47.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 25 block(s)]
+[23Jun2025 11:03:52.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 25 block(s)]
+[23Jun2025 11:03:59.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 11:04:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 25 block(s)]
+[23Jun2025 11:04:18.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 25 block(s)]
+[23Jun2025 11:04:25.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 400 block(s)]
+[23Jun2025 11:04:33.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 500 block(s)]
+[23Jun2025 11:04:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 925 block(s)]
+[23Jun2025 11:04:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 925 block(s)]
+[23Jun2025 11:04:53.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 11:05:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 925 block(s)]
+[23Jun2025 11:05:26.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 25 block(s)]
+[23Jun2025 11:06:33.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 25 block(s)]
+[23Jun2025 11:07:20.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 11:07:31.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> x100
+[23Jun2025 11:07:57.413] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -5980.0 64.0 -476.0 minecraft:overworld
+[23Jun2025 11:07:57.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[23Jun2025 11:08:00.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 11:08:28.108] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[23Jun2025 11:08:28.117] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[23Jun2025 11:08:30.795] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-327, y=59, z=-34}
+[23Jun2025 11:08:30.795] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[23Jun2025 11:08:30.796] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[23Jun2025 11:08:30.830] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-326, y=59, z=-34}
+[23Jun2025 11:08:30.831] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-33}
+[23Jun2025 11:08:30.831] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-325, y=59, z=-32}
+[23Jun2025 11:08:36.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Set Colomer3213's game mode to Creative Mode]
+[23Jun2025 11:08:38.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Set own game mode to Creative Mode]
+[23Jun2025 11:08:41.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[23Jun2025 11:08:41.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[23Jun2025 11:09:13.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:44103] logged in with entity id 60298 at (-5905.705406004778, 70.0, -458.43992858248197)
+[23Jun2025 11:09:13.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[23Jun2025 11:09:25.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 lost connection: Disconnected
+[23Jun2025 11:09:25.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 left the game
+[23Jun2025 11:09:32.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 lost connection: Disconnected
+[23Jun2025 11:09:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 left the game
+[23Jun2025 11:09:56.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:50091] logged in with entity id 60363 at (-5920.352896159637, 89.11813632312439, -471.03131959528594)
+[23Jun2025 11:09:56.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[23Jun2025 11:10:18.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.137.26.182:38787] logged in with entity id 60953 at (-5960.911701966858, 103.07487845705843, -484.615437247251)
+[23Jun2025 11:10:18.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[23Jun2025 11:10:27.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Set Colomer3213's game mode to Survival Mode]
+[23Jun2025 11:10:31.881] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[23Jun2025 11:10:35.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Set own game mode to Survival Mode]
+[23Jun2025 11:10:53.318] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[23Jun2025 11:11:37.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
