@@ -2073,3 +2073,75 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jun2025 08:58:30.355] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [23Jun2025 08:58:39.493] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [23Jun2025 08:59:22.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Into Fire]
+[23Jun2025 08:59:56.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:59:56.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 09:00:54.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[23Jun2025 09:02:21.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah withered away while fighting Skeleton
+[23Jun2025 09:02:24.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/22513, l='ServerLevel[world]', x=-419.30, y=22.00, z=76.70] died: Desert Blaze was slain by Danielgp_05
+[23Jun2025 09:02:25.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[23Jun2025 09:02:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:02:34.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:03:21.597] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:03:23.257] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[23Jun2025 09:03:23.549] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:03:32.751] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[23Jun2025 09:03:57.562] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[23Jun2025 09:04:12.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/23156, l='ServerLevel[world]', x=-398.30, y=14.70, z=146.70] died: Desert Blaze was slain by Colomer3213
+[23Jun2025 09:04:30.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/23155, l='ServerLevel[world]', x=-402.27, y=14.66, z=154.70] died: Desert Blaze was slain by Danielgp_05
+[23Jun2025 09:04:56.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 09:04:56.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 09:05:34.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:06:44.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:08:02.529] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:09:23.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:09:55.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Into Fire]
+[23Jun2025 09:09:56.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 09:09:56.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 09:10:13.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has completed the challenge [Border of Life]
+[23Jun2025 09:10:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Light-Sensitive]
+[23Jun2025 09:10:13.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/24466, l='ServerLevel[world]', x=-463.49, y=78.00, z=85.04] died: Desert Blaze was slain by Aszetah
+[23Jun2025 09:11:35.858] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -441.0 77.0 85.0 minecraft:the_nether
+[23Jun2025 09:11:46.778] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -446.0 77.0 89.0 minecraft:the_nether
+[23Jun2025 09:11:58.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:12:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[23Jun2025 09:12:43.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was doomed to fall
+[23Jun2025 09:12:43.960] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[23Jun2025 09:12:51.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[23Jun2025 09:13:33.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]
+[23Jun2025 09:14:26.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[23Jun2025 09:14:30.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:14:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:14:56.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 09:14:56.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 09:15:52.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:15:55.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was doomed to fall
+[23Jun2025 09:16:00.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[23Jun2025 09:16:01.129] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.456] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.456] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.458] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.458] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.458] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.458] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.459] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.489] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:01.493] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:16:13.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was doomed to fall by Danielgp_05
+[23Jun2025 09:17:26.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 09:18:17.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Danielgp_05]
+[23Jun2025 09:18:27.394] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:18:27.394] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:18:27.394] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:18:27.395] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:18:27.395] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:18:27.395] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:18:27.395] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:19:19.568] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -436.0 75.0 205.0 minecraft:the_nether
+[23Jun2025 09:19:22.664] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:19:23.112] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 09:19:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 09:19:53.413] [Server thread/INFO] [journeymap/]: Aszetah teleported to -423.0 74.0 210.0 minecraft:the_nether
+[23Jun2025 09:19:55.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah was doomed to fall
+[23Jun2025 09:19:56.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 09:19:56.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 09:20:08.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aszetah: Teleported Aszetah to Colomer3213]

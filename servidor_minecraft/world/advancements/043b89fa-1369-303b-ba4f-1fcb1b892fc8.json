@@ -320,6 +320,7 @@
       "baked_potato": "2025-06-14 09:48:44 +0000",
       "melon_slice": "2025-06-12 09:54:09 +0000",
       "porkchop": "2025-06-16 10:44:24 +0000",
+      "pumpkin_pie": "2025-06-23 09:00:19 +0000",
       "golden_carrot": "2025-06-18 10:13:51 +0000"
     },
     "done": false
@@ -669,12 +670,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-12 11:00:36 +0000",
+      "minecraft:blaze": "2025-06-23 08:59:22 +0000",
       "minecraft:cave_spider": "2025-06-12 10:16:39 +0000",
       "minecraft:skeleton": "2025-06-12 10:06:51 +0000",
+      "minecraft:zombified_piglin": "2025-06-23 08:57:26 +0000",
       "minecraft:stray": "2025-06-12 10:37:12 +0000",
       "minecraft:enderman": "2025-06-14 13:27:37 +0000",
       "minecraft:witch": "2025-06-14 08:27:00 +0000",
       "minecraft:spider": "2025-06-12 10:33:15 +0000",
+      "minecraft:wither_skeleton": "2025-06-23 08:57:16 +0000",
       "minecraft:zombie": "2025-06-12 10:02:29 +0000"
     },
     "done": false
@@ -3319,6 +3323,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-23 08:58:31 +0000",
+      "minecraft:warped_forest": "2025-06-23 09:12:21 +0000"
+    },
+    "done": false
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-06-23 08:53:27 +0000"
@@ -3328,6 +3339,24 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-23 08:53:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2025-06-23 09:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-23 08:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-23 09:02:44 +0000"
     },
     "done": true
   },
@@ -3349,6 +3378,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-23 08:57:17 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-23 08:53:28 +0000"
@@ -3361,11 +3396,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-23 08:59:22 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-23 08:53:28 +0000"
     },
     "done": false
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-06-23 09:10:13 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -3376,6 +3423,18 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-23 08:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-23 08:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-23 08:59:22 +0000"
     },
     "done": true
   },
