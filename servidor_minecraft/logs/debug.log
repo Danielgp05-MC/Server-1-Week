@@ -1894,3 +1894,182 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jun2025 08:27:23.715] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -326.0 63.0 1120.0 minecraft:overworld
 [23Jun2025 08:27:38.666] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
 [23Jun2025 08:29:03.658] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 116.0 106.0 1116.0 minecraft:overworld
+[23Jun2025 08:29:32.579] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 99.0 105.0 1116.0 minecraft:overworld
+[23Jun2025 08:29:36.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:29:36.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 08:29:56.389] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 107.0 116.0 1111.0 minecraft:overworld
+[23Jun2025 08:30:04.158] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=74, y=-11, z=92}
+[23Jun2025 08:30:04.159] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=79, y=-11, z=96}
+[23Jun2025 08:30:25.531] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 117.0 116.0 1107.0 minecraft:overworld
+[23Jun2025 08:30:35.330] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 99.0 105.0 1116.0 minecraft:overworld
+[23Jun2025 08:30:44.361] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 117.0 116.0 1106.0 minecraft:overworld
+[23Jun2025 08:31:57.484] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 102.0 116.0 1115.0 minecraft:overworld
+[23Jun2025 08:33:20.946] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[23Jun2025 08:34:36.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:34:36.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 08:35:17.189] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 105.0 116.0 1121.0 minecraft:overworld
+[23Jun2025 08:35:46.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Aszetah]
+[23Jun2025 08:36:23.721] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[23Jun2025 08:37:28.938] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [amplified_nether, awesomedungeon, awesomedungeonnether, betterdungeons, betterendisland, betterfortresses, betterjungletemples, bettermineshafts, betteroceanmonuments, betterstrongholds, betterwitchhuts, biomesoplenty, cloth_config, collective, commonnetworking, explorify, forge, formations, formationsoverworld, glitchcore, incendium, jei, journeymap, journeymap_api, libraryferret, luckytntlib, luckytntmod, mcwbridges, mcwdoors, medieval_buildings, medievalend, minecraft, mixinextras, mr_qraftyfied, nullscape, onlyhammersandexcavators, solarcooker, sound_physics_remastered, terrablender, treeharvester, wabi_sabi_structures, yungsapi]
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, glitchcore:main, jei:channel, journeymap:admin_req, journeymap:admin_save, journeymap:chunk_overlay, journeymap:common, journeymap:mp_options_req, journeymap:perm_req, journeymap:player_loc, journeymap:remove_player, journeymap:teleport_req, journeymap:version, journeymap:waypoint, luckytntmod:main, worldinfo:world_id]
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:chunk_overlay' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'PRESENT 3' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:remove_player' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.103] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.104] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.104] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luckytntmod:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[23Jun2025 08:37:29.104] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.104] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.104] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of 'PRESENT 0' from client : ACCEPTED
+[23Jun2025 08:37:29.104] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[23Jun2025 08:37:29.270] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[23Jun2025 08:37:29.435] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[23Jun2025 08:37:29.602] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[23Jun2025 08:37:29.612] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3222.0 102.0 -863.0 minecraft:overworld
+[23Jun2025 08:37:29.933] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[23Jun2025 08:37:30.102] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[23Jun2025 08:37:30.262] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[23Jun2025 08:37:30.602] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[23Jun2025 08:37:30.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[23Jun2025 08:37:30.925] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[23Jun2025 08:37:31.087] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[23Jun2025 08:37:31.251] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[23Jun2025 08:37:31.414] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[23Jun2025 08:37:31.738] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[23Jun2025 08:37:31.910] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[23Jun2025 08:37:32.082] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[23Jun2025 08:37:32.244] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[23Jun2025 08:37:32.403] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[23Jun2025 08:37:32.564] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[23Jun2025 08:37:33.386] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[23Jun2025 08:37:34.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:42951] logged in with entity id 11622 at (105.56404325148841, 110.0, 1108.5766949098804)
+[23Jun2025 08:37:34.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[23Jun2025 08:38:42.930] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3117.0 66.0 -949.0 minecraft:overworld
+[23Jun2025 08:39:12.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[23Jun2025 08:39:36.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:39:36.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 08:40:47.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 08:40:52.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[23Jun2025 08:42:10.208] [Server thread/INFO] [journeymap/]: Aszetah teleported to -2939.0 76.0 -1094.0 minecraft:overworld
+[23Jun2025 08:44:18.326] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3425.0 119.0 -1121.0 minecraft:overworld
+[23Jun2025 08:44:37.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:44:37.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 08:46:10.341] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[23Jun2025 08:46:19.146] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[23Jun2025 08:46:51.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> zzzz
+[23Jun2025 08:47:14.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Aszetah]
+[23Jun2025 08:48:53.839] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3585.0 73.0 -1365.0 minecraft:overworld
+[23Jun2025 08:49:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Tactical Fishing]
+[23Jun2025 08:49:36.517] [Server thread/INFO] [journeymap/]: Aszetah teleported to -3605.5 63.0 -35.5 minecraft:overworld
+[23Jun2025 08:49:37.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:49:37.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 08:49:44.068] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[23Jun2025 08:50:14.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 08:50:18.835] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 96.0 105.0 1109.0 minecraft:overworld
+[23Jun2025 08:50:58.979] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3596.5 63.0 0.5 minecraft:overworld
+[23Jun2025 08:53:05.422] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:05.423] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:05.424] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:05.534] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:06.151] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:06.151] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:06.151] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:06.165] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:11.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [We Need to Go Deeper]
+[23Jun2025 08:53:11.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Incendium]
+[23Jun2025 08:53:13.994] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:14.829] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:16.868] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:16.911] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:16.911] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:16.911] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:17.186] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:17.188] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:17.188] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:17.190] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:17.190] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:17.190] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:17.191] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:18.966] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:18.998] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:19.212] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:19.347] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:21.068] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:21.451] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:21.478] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:21.574] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:21.575] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:21.575] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:23.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19537ms or 390 ticks behind
+[23Jun2025 08:53:24.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Darude - Firestorm]
+[23Jun2025 08:53:24.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [A Terrible Fortress]
+[23Jun2025 08:53:24.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Strange Biomes]
+[23Jun2025 08:53:24.989] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:25.000] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:25.001] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:25.054] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:25.116] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:25.118] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:25.121] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[23Jun2025 08:53:27.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [We Need to Go Deeper]
+[23Jun2025 08:53:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Incendium]
+[23Jun2025 08:53:28.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Darude - Firestorm]
+[23Jun2025 08:53:28.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [A Terrible Fortress]
+[23Jun2025 08:53:28.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Strange Biomes]
+[23Jun2025 08:53:31.828] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:38.066] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:42.017] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:45.256] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:45.257] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:45.257] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:45.257] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:45.257] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:53:59.281] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 110.0 77.0 1089.0 minecraft:overworld
+[23Jun2025 08:54:05.404] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:54:09.393] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 103.0 105.0 1091.0 minecraft:overworld
+[23Jun2025 08:54:45.299] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:54:56.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 08:54:56.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 08:55:26.457] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 113.0 105.0 1097.0 minecraft:overworld
+[23Jun2025 08:55:32.338] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 99.0 116.0 1109.0 minecraft:overworld
+[23Jun2025 08:55:38.848] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 94.0 105.0 1116.0 minecraft:overworld
+[23Jun2025 08:55:52.318] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 167.0 63.0 1090.0 minecraft:overworld
+[23Jun2025 08:55:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [We Need to Go Deeper]
+[23Jun2025 08:55:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Incendium]
+[23Jun2025 08:55:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 08:55:56.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Darude - Firestorm]
+[23Jun2025 08:55:56.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [A Terrible Fortress]
+[23Jun2025 08:55:56.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Strange Biomes]
+[23Jun2025 08:56:05.812] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:05.812] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:05.812] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:05.813] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:05.813] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:12.345] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:16.588] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:37.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Light-Sensitive]
+[23Jun2025 08:56:37.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/21032, l='ServerLevel[world]', x=-516.98, y=55.93, z=34.64] died: Desert Blaze was slain by Colomer3213
+[23Jun2025 08:56:38.855] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:38.855] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:38.855] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:39.745] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:39.746] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:39.746] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:39.746] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:39.746] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:56:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Light-Sensitive]
+[23Jun2025 08:56:51.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/21033, l='ServerLevel[world]', x=-518.07, y=58.42, z=9.93] died: Desert Blaze was slain by Danielgp_05
+[23Jun2025 08:57:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Spooky Scary Skeleton]
+[23Jun2025 08:57:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Ice Bucket Challenge]
+[23Jun2025 08:58:30.355] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:58:39.493] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jun2025 08:59:22.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aszetah has made the advancement [Into Fire]
