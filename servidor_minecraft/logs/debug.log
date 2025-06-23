@@ -2561,3 +2561,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jun2025 10:41:32.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was doomed to fall by Colomer3213
 [23Jun2025 10:41:38.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
 [23Jun2025 10:41:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 10:42:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[23Jun2025 10:42:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[23Jun2025 10:42:54.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 10:43:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Spooky Scary Skeleton]
+[23Jun2025 10:43:23.942] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
+[23Jun2025 10:43:26.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 10:44:56.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 10:44:56.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 10:45:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 10:46:41.375] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[23Jun2025 10:46:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[23Jun2025 10:46:45.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[23Jun2025 10:46:49.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 10:46:53.510] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
+[23Jun2025 10:46:56.085] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3596.5 63.0 0.5 minecraft:overworld
+[23Jun2025 10:47:22.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[23Jun2025 10:49:19.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 10:49:25.773] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3598.0 63.0 -6.0 minecraft:overworld
+[23Jun2025 10:49:56.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 10:49:56.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 10:50:16.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 10:50:22.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 10:50:35.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 10:50:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 10:50:45.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 10:50:49.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[23Jun2025 10:50:58.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 10:51:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
+[23Jun2025 10:51:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Successfully filled 260 block(s)]
