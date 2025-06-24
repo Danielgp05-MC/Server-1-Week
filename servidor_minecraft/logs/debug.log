@@ -2349,3 +2349,50 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jun2025 16:58:47.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Jun2025 16:58:52.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
 [24Jun2025 16:59:03.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:00:03.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 withered away while fighting Wither Skeleton
+[24Jun2025 17:00:12.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:00:37.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21842, l='ServerLevel[world]', x=-395.86, y=-20.00, z=-2671.91] died: Toxic Slime was killed
+[24Jun2025 17:00:38.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21873, l='ServerLevel[world]', x=-322.94, y=-20.00, z=-2657.67] died: Toxic Slime was killed
+[24Jun2025 17:00:44.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21911, l='ServerLevel[world]', x=-348.74, y=-20.00, z=-2743.26] died: Toxic Slime was killed
+[24Jun2025 17:00:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:01:51.958] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:01:51.968] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:02:23.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:02:36.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was killed
+[24Jun2025 17:02:36.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Danielgp_05]
+[24Jun2025 17:02:46.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22767, l='ServerLevel[world]', x=-410.26, y=-20.00, z=-2711.74] died: Toxic Slime was killed
+[24Jun2025 17:03:09.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22830, l='ServerLevel[world]', x=-442.74, y=-20.00, z=-2772.26] died: Toxic Slime was killed
+[24Jun2025 17:03:47.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 17:03:47.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 17:03:51.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was killed
+[24Jun2025 17:03:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Danielgp_05]
+[24Jun2025 17:03:54.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:04:05.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/23145, l='ServerLevel[world]', x=-401.87, y=-20.00, z=-2740.44] died: Toxic Slime was killed
+[24Jun2025 17:04:05.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/23146, l='ServerLevel[world]', x=-420.74, y=-20.00, z=-2796.26] died: Toxic Slime was killed
+[24Jun2025 17:05:01.956] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -262.0 32.0 -2822.0 minecraft:the_nether
+[24Jun2025 17:05:03.084] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:05:15.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:05:58.877] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -283.0 45.0 -2850.0 minecraft:the_nether
+[24Jun2025 17:06:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 tried to swim in lava to escape Ghast Sentry
+[24Jun2025 17:06:12.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:07:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 tried to swim in lava
+[24Jun2025 17:07:16.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:07:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has reached the goal [Pocket Edition Alpha]
+[24Jun2025 17:07:31.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24338, l='ServerLevel[world]', x=-273.01, y=-20.00, z=-2805.26] died: Toxic Slime was killed
+[24Jun2025 17:07:50.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:07:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has completed the challenge [Hot Tourist Destinations]
+[24Jun2025 17:07:53.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24522, l='ServerLevel[world]', x=-317.74, y=-20.00, z=-2841.74] died: Toxic Slime was killed
+[24Jun2025 17:07:54.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has completed the challenge [Hot Tourist Destinations]
+[24Jun2025 17:08:02.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Radiation Director
+[24Jun2025 17:08:04.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24536, l='ServerLevel[world]', x=-292.57, y=-20.00, z=-2803.90] died: Toxic Slime was killed
+[24Jun2025 17:08:05.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:08:08.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/21895, l='ServerLevel[world]', x=-244.58, y=32.00, z=-2827.33] died: Radiation Director was slain by Danielgp_05
+[24Jun2025 17:08:30.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24655, l='ServerLevel[world]', x=-255.26, y=-20.00, z=-2832.26] died: Toxic Slime was killed
+[24Jun2025 17:08:36.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24678, l='ServerLevel[world]', x=-275.26, y=-20.00, z=-2791.67] died: Toxic Slime was killed
+[24Jun2025 17:08:47.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 17:08:47.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 17:09:09.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24888, l='ServerLevel[world]', x=-286.84, y=-20.00, z=-2817.53] died: Toxic Slime was killed
+[24Jun2025 17:09:09.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24889, l='ServerLevel[world]', x=-239.26, y=-20.00, z=-2815.26] died: Toxic Slime was killed
+[24Jun2025 17:09:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> hazmat
+[24Jun2025 17:09:21.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24921, l='ServerLevel[world]', x=-269.26, y=-20.00, z=-2810.74] died: Toxic Slime was killed
+[24Jun2025 17:09:39.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Hidden in the Depths]

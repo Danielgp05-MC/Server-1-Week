@@ -3595,10 +3595,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-23 09:20:09 +0000",
       "minecraft:nether_wastes": "2025-06-23 08:57:43 +0000",
+      "minecraft:soul_sand_valley": "2025-06-24 17:07:54 +0000",
       "minecraft:warped_forest": "2025-06-23 09:12:18 +0000",
       "minecraft:basalt_deltas": "2025-06-24 16:47:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
@@ -4056,11 +4057,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-24 17:06:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-24 16:46:24 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "junk": "2025-06-24 17:07:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
@@ -4266,6 +4279,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2025-06-24 17:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-24 16:15:30 +0000"
@@ -4299,6 +4318,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-06-24 16:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-06-24 17:06:31 +0000"
     },
     "done": true
   },
