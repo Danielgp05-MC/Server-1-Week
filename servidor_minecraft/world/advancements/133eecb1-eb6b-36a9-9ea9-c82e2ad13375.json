@@ -13,23 +13,26 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "volcanic_plains": "2025-06-12 09:57:50 +0000",
       "spider_nest": "2025-06-18 08:51:28 +0000",
       "forested_field": "2025-06-23 11:16:33 +0000",
       "woodland": "2025-06-12 10:24:16 +0000",
       "dryland": "2025-06-12 10:48:05 +0000",
-      "mystic_grove": "2025-06-18 08:48:15 +0000",
       "wasteland": "2025-06-12 10:24:32 +0000",
-      "old_growth_woodland": "2025-06-12 09:58:35 +0000",
-      "maple_woods": "2025-06-23 11:08:23 +0000",
       "lush_desert": "2025-06-12 10:48:43 +0000",
       "old_growth_dead_forest": "2025-06-23 11:08:20 +0000",
       "redwood_forest": "2025-06-18 08:50:52 +0000",
       "scrubland": "2025-06-12 09:43:02 +0000",
-      "snowy_fir_clearing": "2025-06-18 09:56:43 +0000",
+      "visceral_heap": "2025-06-24 16:45:11 +0000",
       "bayou": "2025-06-17 09:40:26 +0000",
-      "gravel_beach": "2025-06-23 11:16:48 +0000",
+      "erupting_inferno": "2025-06-24 16:46:35 +0000",
       "floodplain": "2025-06-12 10:23:56 +0000",
+      "volcanic_plains": "2025-06-12 09:57:50 +0000",
+      "mystic_grove": "2025-06-18 08:48:15 +0000",
+      "old_growth_woodland": "2025-06-12 09:58:35 +0000",
+      "maple_woods": "2025-06-23 11:08:23 +0000",
+      "snowy_fir_clearing": "2025-06-18 09:56:43 +0000",
+      "withered_abyss": "2025-06-24 16:29:06 +0000",
+      "gravel_beach": "2025-06-23 11:16:48 +0000",
       "undergrowth": "2025-06-23 09:23:11 +0000",
       "tropics": "2025-06-12 10:38:15 +0000",
       "mediterranean_forest": "2025-06-12 11:03:51 +0000",
@@ -525,17 +528,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-06-23 08:56:51 +0000",
-      "minecraft:cave_spider": "2025-06-18 08:52:35 +0000",
       "minecraft:skeleton": "2025-06-18 08:51:14 +0000",
+      "minecraft:wither_skeleton": "2025-06-23 08:57:58 +0000",
+      "minecraft:hoglin": "2025-06-23 09:29:39 +0000",
+      "minecraft:cave_spider": "2025-06-18 08:52:35 +0000",
       "minecraft:piglin": "2025-06-23 09:32:42 +0000",
       "minecraft:enderman": "2025-06-12 09:56:52 +0000",
       "minecraft:stray": "2025-06-12 10:36:25 +0000",
       "minecraft:spider": "2025-06-16 10:42:35 +0000",
-      "minecraft:wither_skeleton": "2025-06-23 08:57:58 +0000",
+      "minecraft:piglin_brute": "2025-06-24 16:30:33 +0000",
       "minecraft:zombie": "2025-06-12 09:52:30 +0000",
       "minecraft:creeper": "2025-06-16 09:49:30 +0000",
-      "minecraft:drowned": "2025-06-12 09:57:23 +0000",
-      "minecraft:hoglin": "2025-06-23 09:29:39 +0000"
+      "minecraft:drowned": "2025-06-12 09:57:23 +0000"
     },
     "done": false
   },
@@ -2896,7 +2900,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-23 09:20:17 +0000",
       "minecraft:nether_wastes": "2025-06-23 08:58:20 +0000",
-      "minecraft:warped_forest": "2025-06-23 09:12:20 +0000"
+      "minecraft:warped_forest": "2025-06-23 09:12:20 +0000",
+      "minecraft:basalt_deltas": "2025-06-24 16:47:47 +0000"
     },
     "done": false
   },
@@ -3308,6 +3313,18 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-06-24 16:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-24 16:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-06-24 16:09:33 +0000"
@@ -3344,6 +3361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-24 16:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-24 16:09:33 +0000"
@@ -3371,6 +3394,12 @@
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-06-24 16:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-24 16:48:01 +0000"
     },
     "done": true
   },
