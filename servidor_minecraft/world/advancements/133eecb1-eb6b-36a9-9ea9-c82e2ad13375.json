@@ -68,10 +68,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-06-24 17:08:47 +0000",
       "log_spam_fixer": "2025-06-12 09:43:02 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
@@ -3255,6 +3254,12 @@
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_planks": "2025-06-23 11:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-24 17:17:38 +0000"
     },
     "done": true
   },

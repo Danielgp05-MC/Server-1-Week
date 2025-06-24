@@ -599,3 +599,160 @@
 [24Jun2025 17:09:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> hazmat
 [24Jun2025 17:09:21.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24921, l='ServerLevel[world]', x=-269.26, y=-20.00, z=-2810.74] died: Toxic Slime was killed
 [24Jun2025 17:09:39.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Hidden in the Depths]
+[24Jun2025 17:10:01.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25303, l='ServerLevel[world]', x=-290.79, y=-20.00, z=-2823.74] died: Toxic Slime was killed
+[24Jun2025 17:10:01.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25309, l='ServerLevel[world]', x=-293.63, y=-20.00, z=-2805.21] died: Toxic Slime was killed
+[24Jun2025 17:10:03.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:11:40.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25760, l='ServerLevel[world]', x=-171.96, y=-20.00, z=-2889.40] died: Toxic Slime was killed
+[24Jun2025 17:12:23.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25850, l='ServerLevel[world]', x=-281.74, y=-20.00, z=-2820.90] died: Toxic Slime was killed
+[24Jun2025 17:12:32.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25869, l='ServerLevel[world]', x=-287.07, y=-20.00, z=-2889.81] died: Toxic Slime was killed
+[24Jun2025 17:12:34.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:12:57.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25931, l='ServerLevel[world]', x=-313.26, y=-20.00, z=-2882.26] died: Toxic Slime was killed
+[24Jun2025 17:14:01.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26056, l='ServerLevel[world]', x=-227.43, y=-20.00, z=-2815.26] died: Toxic Slime was killed
+[24Jun2025 17:14:08.530] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[24Jun2025 17:14:11.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
+[24Jun2025 17:14:28.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26106, l='ServerLevel[world]', x=-363.43, y=-20.00, z=-2850.71] died: Toxic Slime was killed
+[24Jun2025 17:14:37.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26126, l='ServerLevel[world]', x=-321.52, y=-20.00, z=-2821.18] died: Toxic Slime was killed
+[24Jun2025 17:14:46.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:14:52.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26159, l='ServerLevel[world]', x=-316.74, y=-20.00, z=-2823.26] died: Toxic Slime was killed
+[24Jun2025 17:14:57.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/21940, l='ServerLevel[world]', x=-283.41, y=47.00, z=-2853.00] died: Ghast Sentry was shot by Colomer3213
+[24Jun2025 17:14:58.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26219, l='ServerLevel[world]', x=-276.26, y=-20.00, z=-2786.26] died: Toxic Slime was killed
+[24Jun2025 17:15:11.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26310, l='ServerLevel[world]', x=-267.26, y=-20.00, z=-2805.26] died: Toxic Slime was killed
+[24Jun2025 17:15:24.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26374, l='ServerLevel[world]', x=-296.55, y=-20.00, z=-2804.92] died: Toxic Slime was killed
+[24Jun2025 17:15:36.040] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -355.0 34.0 -2973.0 minecraft:the_nether
+[24Jun2025 17:15:36.440] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:15:42.909] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -429.0 37.0 -3034.0 minecraft:the_nether
+[24Jun2025 17:15:43.020] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:15:43.615] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:15:46.382] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:15:47.117] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -390.0 47.0 -3079.0 minecraft:the_nether
+[24Jun2025 17:15:47.303] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:15:49.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26483, l='ServerLevel[world]', x=-276.69, y=-20.00, z=-2786.84] died: Toxic Slime was killed
+[24Jun2025 17:15:53.522] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -422.0 32.0 -3144.0 minecraft:the_nether
+[24Jun2025 17:15:54.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26503, l='ServerLevel[world]', x=-270.26, y=-20.00, z=-2770.26] died: Toxic Slime was killed
+[24Jun2025 17:15:55.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:16:14.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26569, l='ServerLevel[world]', x=-265.26, y=-20.00, z=-2799.72] died: Toxic Slime was killed
+[24Jun2025 17:16:50.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26863, l='ServerLevel[world]', x=-307.26, y=-20.00, z=-2833.26] died: Toxic Slime was killed
+[24Jun2025 17:16:53.099] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[24Jun2025 17:16:58.657] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -283.0 48.0 -2853.0 minecraft:the_nether
+[24Jun2025 17:17:06.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26935, l='ServerLevel[world]', x=-287.24, y=-20.00, z=-2850.38] died: Toxic Slime was killed
+[24Jun2025 17:17:08.313] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -282.5 73.0 -2852.5 minecraft:the_nether
+[24Jun2025 17:17:12.655] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -283.0 48.0 -2853.0 minecraft:the_nether
+[24Jun2025 17:17:21.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26979, l='ServerLevel[world]', x=-252.26, y=-20.00, z=-2926.38] died: Toxic Slime was killed
+[24Jun2025 17:17:23.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:17:31.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:17:33.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was doomed to fall by Danielgp_05
+[24Jun2025 17:17:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:17:43.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 moved too quickly! -0.13280788975390578,-10.544157833446192,0.25471109266163694
+[24Jun2025 17:17:43.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:17:47.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27038, l='ServerLevel[world]', x=-311.26, y=-20.00, z=-2835.09] died: Toxic Slime was killed
+[24Jun2025 17:18:00.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27068, l='ServerLevel[world]', x=-320.26, y=-20.00, z=-2892.56] died: Toxic Slime was killed
+[24Jun2025 17:18:21.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 tried to swim in lava
+[24Jun2025 17:18:24.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:18:30.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27470, l='ServerLevel[world]', x=-336.96, y=-20.00, z=-2855.79] died: Toxic Slime was killed
+[24Jun2025 17:18:36.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ;
+[24Jun2025 17:18:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> :/
+[24Jun2025 17:18:54.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27561, l='ServerLevel[world]', x=-268.26, y=-20.00, z=-2822.27] died: Toxic Slime was killed
+[24Jun2025 17:18:58.717] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[24Jun2025 17:19:03.007] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -106.0 41.0 -2892.0 minecraft:the_nether
+[24Jun2025 17:19:04.636] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:04.918] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:04.918] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:05.537] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:05.623] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:07.658] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:07.659] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:07.662] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:07.742] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:07.742] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:07.743] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:08.575] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:10.207] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -36.0 46.0 -2921.0 minecraft:the_nether
+[24Jun2025 17:19:11.734] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:15.057] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:16.389] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:20.976] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:27.961] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 25.0 38.0 -2934.0 minecraft:the_nether
+[24Jun2025 17:19:35.587] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 100.0 33.0 -3015.0 minecraft:the_nether
+[24Jun2025 17:19:41.889] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:41.889] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:45.706] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 149.0 39.0 -3080.0 minecraft:the_nether
+[24Jun2025 17:19:48.230] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:48.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:48.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:48.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:48.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:48.516] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:48.516] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:49.031] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:49.653] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 185.0 45.0 -3131.0 minecraft:the_nether
+[24Jun2025 17:19:51.529] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:51.529] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:51.540] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:51.577] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:51.577] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:51.578] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:52.260] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:19:53.043] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:53.044] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:53.046] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:53.690] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:53.708] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:19:53.982] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 236.0 41.0 -3109.0 minecraft:the_nether
+[24Jun2025 17:19:59.420] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -353.5 63.0 -53.5 minecraft:overworld
+[24Jun2025 17:20:00.828] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 138.0 32.0 -3201.0 minecraft:the_nether
+[24Jun2025 17:20:01.875] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:20:01.876] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:20:02.777] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:20:05.058] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:20:05.088] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Jun2025 17:20:05.995] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[24Jun2025 17:20:10.278] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 108.0 44.0 -3209.0 minecraft:the_nether
+[24Jun2025 17:20:16.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:20:16.558] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 123.0 40.0 -3196.0 minecraft:the_nether
+[24Jun2025 17:20:17.666] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:20:17.667] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:20:17.667] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:20:20.168] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:21:05.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:21:11.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 burned to death
+[24Jun2025 17:21:14.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> :/
+[24Jun2025 17:21:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:21:28.464] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jun2025 17:21:49.708] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[24Jun2025 17:21:54.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4410ms or 88 ticks behind
+[24Jun2025 17:22:21.311] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[24Jun2025 17:22:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:22:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:23:44.873] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[24Jun2025 17:23:45.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:24:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:24:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[24Jun2025 17:24:08.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[24Jun2025 17:24:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[24Jun2025 17:24:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[24Jun2025 17:24:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[24Jun2025 17:25:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Created new objective [vida]]
+[24Jun2025 17:25:25.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Set display slot list to show objective vida]
+[24Jun2025 17:25:28.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[24Jun2025 17:25:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[24Jun2025 17:25:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:25:58.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Created new objective [Muertes]]
+[24Jun2025 17:26:05.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Set display slot sidebar to show objective Muertes]
+[24Jun2025 17:26:14.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Reset [Muertes] for <nombre_del_jugador>]
+[24Jun2025 17:26:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was killed
+[24Jun2025 17:26:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Killed Danielgp_05]
+[24Jun2025 17:26:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
+[24Jun2025 17:26:26.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
+[24Jun2025 17:26:29.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[24Jun2025 17:27:24.607] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
+[24Jun2025 17:27:27.804] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
+[24Jun2025 17:27:33.514] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3596.5 63.0 0.5 minecraft:overworld
+[24Jun2025 17:27:36.142] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
+[24Jun2025 17:28:13.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 moved too quickly! -10.152515962974576,0.0,-0.646297529885663
+[24Jun2025 17:28:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]

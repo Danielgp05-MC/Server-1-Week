@@ -1177,6 +1177,7 @@
       "cooked_chicken": "2025-06-14 08:56:05 +0000",
       "cooked_mutton": "2025-06-12 10:32:08 +0000",
       "cooked_beef": "2025-06-12 10:13:53 +0000",
+      "baked_potato": "2025-06-24 17:10:12 +0000",
       "cooked_salmon": "2025-06-14 08:13:03 +0000",
       "golden_carrot": "2025-06-18 10:22:26 +0000"
     },
@@ -4057,6 +4058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-24 17:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-24 17:06:31 +0000"
@@ -4071,7 +4078,9 @@
   },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
-      "junk": "2025-06-24 17:07:22 +0000"
+      "office_treasure": "2025-06-24 17:09:37 +0000",
+      "junk": "2025-06-24 17:07:22 +0000",
+      "treasure": "2025-06-24 17:17:15 +0000"
     },
     "done": false
   },
@@ -4117,6 +4126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-24 17:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-24 16:38:48 +0000"
@@ -4156,6 +4171,12 @@
   "incendium:ash_barrens/enter_castle": {
     "criteria": {
       "requirement": "2025-06-24 16:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-24 17:09:39 +0000"
     },
     "done": true
   },
