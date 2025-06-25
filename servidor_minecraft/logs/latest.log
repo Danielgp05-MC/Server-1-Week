@@ -1,758 +1,161 @@
-[24Jun2025 15:47:56.143] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[24Jun2025 15:47:56.148] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
-[24Jun2025 15:47:56.150] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[24Jun2025 15:47:56.873] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[24Jun2025 15:47:57.025] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[24Jun2025 15:47:57.545] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[24Jun2025 15:47:58.891] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Jun2025 15:47:58.973] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[24Jun2025 15:47:59.006] [main/WARN] [mixin/]: Reference map 'betterdungeons.refmap.json' for betterdungeons.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.007] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.008] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.011] [main/WARN] [mixin/]: Reference map 'betterwitchhuts.refmap.json' for betterwitchhuts.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.024] [main/WARN] [mixin/]: Reference map 'betteroceanmonuments.refmap.json' for betteroceanmonuments.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.026] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.027] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.030] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.120] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.121] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.121] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.123] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.125] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.131] [main/WARN] [mixin/]: Reference map 'formations.mixins.refmap.json' for formations.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.133] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.134] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:47:59.135] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 15:48:00.315] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[24Jun2025 15:48:00.470] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[24Jun2025 15:48:00.501] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[24Jun2025 15:48:07.465] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[24Jun2025 15:48:07.466] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[24Jun2025 15:48:07.475] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
-[24Jun2025 15:48:07.759] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
-[24Jun2025 15:48:07.759] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
-[24Jun2025 15:48:07.793] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[24Jun2025 15:48:09.286] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[24Jun2025 15:48:09.287] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[24Jun2025 15:48:09.287] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[24Jun2025 15:48:09.287] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[24Jun2025 15:48:09.288] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[24Jun2025 15:48:09.289] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[24Jun2025 15:48:09.289] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[24Jun2025 15:48:09.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[24Jun2025 15:48:09.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.1 Target: null
-[24Jun2025 15:48:09.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Starting version check at https://api.modrinth.com/updates/ibnDR6oc/forge_updates.json
-[24Jun2025 15:48:10.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Found status: OUTDATED Current: 9.0.1 Target: 9.1.1+mod
-[24Jun2025 15:48:10.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[24Jun2025 15:48:10.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA_OUTDATED Current: 1.21.1-6.0.0-beta.47 Target: 1.21.1-6.0.0-beta.52
-[24Jun2025 15:48:10.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Starting version check at https://api.modrinth.com/updates/Vr3O6THr/forge_updates.json
-[24Jun2025 15:48:10.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Found status: OUTDATED Current: 3.0.0 Target: 3.0.1
-[24Jun2025 15:48:10.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[24Jun2025 15:48:10.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[24Jun2025 15:48:10.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[24Jun2025 15:48:10.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.1-1.4.10 Target: 1.21.1-1.4.12
-[24Jun2025 15:48:10.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Jun2025 15:48:11.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
-[24Jun2025 15:48:11.574] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[24Jun2025 15:48:13.541] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.543] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.546] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.553] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.555] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.559] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_absi_palace/start_pool`: { spacing: 50, separation: 25, salt: 19482856, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.559] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_accum_quad/start_pool`: { spacing: 50, separation: 25, salt: 28482856, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.559] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_blaze_tower/start_pool`: { spacing: 50, separation: 25, salt: 37482856, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.559] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_center_square/start_pool`: { spacing: 50, separation: 25, salt: 46482856, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.560] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_giant_crimson_tree/start_pool`: { spacing: 50, separation: 25, salt: 55482856, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.560] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_obsi_house/start_pool`: { spacing: 50, separation: 25, salt: 64482856, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.563] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.564] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.564] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
-[24Jun2025 15:48:13.565] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
-[24Jun2025 15:48:14.787] [Worker-Main-3/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element minecraft:loot_table/wabi_sabi_structures:chests/generic/generic_firework_dispenser - Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]
-[24Jun2025 15:48:15.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2481 recipes
-[24Jun2025 15:48:16.322] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1989 advancements
-[24Jun2025 15:48:17.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
-[24Jun2025 15:48:17.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Jun2025 15:48:17.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Jun2025 15:48:17.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Jun2025 15:48:17.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Jun2025 15:48:17.539] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Jun2025 15:48:17.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Jun2025 15:48:17.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Jun2025 15:48:17.593] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Jun2025 15:48:17.593] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Jun2025 15:48:17.607] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Jun2025 15:48:18.276] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[24Jun2025 15:48:18.277] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[24Jun2025 15:48:18.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Jun2025 15:48:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Jun2025 15:48:41.541] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 15:48:41.543] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 15:48:41.544] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 15:48:41.544] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 15:48:41.545] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 15:48:41.546] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 15:48:41.546] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 15:48:41.581] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 15:48:41.868] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3788 ms
-[24Jun2025 15:48:41.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.264s)! For help, type "help"
-[24Jun2025 15:48:41.899] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Jun2025 15:48:41.903] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
-[24Jun2025 15:48:41.904] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeClientHooks@5648f3e5 for service interface journeymap.api.services.ClientPlatformService
-[24Jun2025 15:48:41.905] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeHooks@329149d3 for service interface journeymap.api.services.CommonPlatformService
-[24Jun2025 15:49:12.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.137.26.182:53405] logged in with entity id 90 at (109.3611486919654, 105.0, 1121.303546683679)
-[24Jun2025 15:49:12.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
-[24Jun2025 15:49:28.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:58183] logged in with entity id 197 at (106.52131980431831, 105.0, 1114.6483127619906)
-[24Jun2025 15:49:28.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
-[24Jun2025 15:50:07.683] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 15:50:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 15:50:49.880] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
-[24Jun2025 15:52:19.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 15:53:09.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 15:54:39.549] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:39.554] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:39.555] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:39.556] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:39.556] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:39.559] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.319] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.320] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.320] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.321] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.321] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.321] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.322] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.322] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.322] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.323] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:54:54.327] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:55:33.804] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:55:33.806] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:55:33.809] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:55:33.810] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:55:33.810] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:55:33.810] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:55:33.811] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:55:33.811] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:56:00.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> espera
-[24Jun2025 15:56:04.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> ok
-[24Jun2025 15:56:29.414] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-88, y=-6, z=-28}
-[24Jun2025 15:56:29.416] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-92, y=-7, z=-28}
-[24Jun2025 15:56:33.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 15:57:43.069] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:58:12.140] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:58:28.749] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:58:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 15:58:41.068] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=372, y=120, z=-264}
-[24Jun2025 15:58:53.615] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 15:59:01.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> :/
-[24Jun2025 16:00:50.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was burned to a crisp while fighting Blaze
-[24Jun2025 16:00:55.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:01:36.782] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:01:39.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was doomed to fall
-[24Jun2025 16:01:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:01:50.521] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -470.0 46.0 -430.0 minecraft:the_nether
-[24Jun2025 16:02:26.343] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:02:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:02:50.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was doomed to fall by Danielgp_05
-[24Jun2025 16:02:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:02:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:03:20.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Rescue Mission]
-[24Jun2025 16:03:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Rescue Mission]
-[24Jun2025 16:03:40.935] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:03:41.836] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:03:50.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:04:04.092] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -521.0 39.0 -534.0 minecraft:the_nether
-[24Jun2025 16:04:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:04:19.757] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.777] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.778] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.778] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.779] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.780] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.780] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.780] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.780] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.781] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.781] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.781] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.781] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.782] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.782] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:19.782] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:04:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:05:59.603] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -588.0 62.0 -550.0 minecraft:the_nether
-[24Jun2025 16:05:59.782] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:05:59.783] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:05:59.783] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:05:59.783] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:06:06.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Hellish Paradise]
-[24Jun2025 16:06:10.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:06:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Hellish Paradise]
-[24Jun2025 16:07:23.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:07:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:09:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [The Dust Settles]
-[24Jun2025 16:10:42.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:11:10.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [The Dust Settles]
-[24Jun2025 16:12:02.617] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:12:14.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [The Floor is Tears]
-[24Jun2025 16:12:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:12:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [The Floor is Tears]
-[24Jun2025 16:12:44.828] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:12:44.829] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:12:44.829] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:12:48.311] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:12:54.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Oh Shiny]
-[24Jun2025 16:12:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:13:28.623] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -583.0 59.0 -728.0 minecraft:the_nether
-[24Jun2025 16:13:30.016] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
-[24Jun2025 16:13:30.177] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:30.177] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:30.178] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:31.205] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
-[24Jun2025 16:13:33.309] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:33.309] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:33.310] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:33.441] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:33.441] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:33.441] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:33.441] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:35.342] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:35.343] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:35.343] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:35.343] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:35.343] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:35.344] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:35.344] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:35.344] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:13:39.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:14:44.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has reached the goal [Piglin Pillage]
-[24Jun2025 16:14:47.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:14:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has reached the goal [Piglin Pillage]
-[24Jun2025 16:15:45.938] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.939] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.939] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.939] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.941] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.941] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.941] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:45.941] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:57.794] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:57.795] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:15:57.796] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:17:37.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:17:57.955] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -520.0 60.0 -815.0 minecraft:the_nether
-[24Jun2025 16:18:55.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:21:16.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:21:23.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:21:59.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:22:35.691] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:22:35.692] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:22:35.693] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:23:01.505] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -422.0 63.0 -863.0 minecraft:the_nether
-[24Jun2025 16:23:15.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was burned to a crisp while fighting Ghast
-[24Jun2025 16:24:38.391] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -558.0 61.0 -1015.0 minecraft:the_nether
-[24Jun2025 16:24:40.494] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:40.495] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:40.495] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:40.496] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:40.496] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:42.328] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:49.594] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:49.604] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:49.604] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:49.604] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:24:52.009] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=53}
-[24Jun2025 16:25:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:25:09.593] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=70}
-[24Jun2025 16:25:09.651] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-187, y=-54, z=56}
-[24Jun2025 16:25:15.964] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:15.965] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:15.965] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:15.966] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:15.966] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:15.966] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:15.966] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:17.066] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-229, y=-45, z=70}
-[24Jun2025 16:25:17.067] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-227, y=-45, z=71}
-[24Jun2025 16:25:17.067] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=72}
-[24Jun2025 16:25:17.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=69}
-[24Jun2025 16:25:30.271] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:30.272] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:30.273] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:25:47.117] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-197, y=-53, z=89}
-[24Jun2025 16:25:47.126] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=112}
-[24Jun2025 16:25:47.238] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=112}
-[24Jun2025 16:25:47.239] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=112}
-[24Jun2025 16:25:55.306] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-195, y=-53, z=95}
-[24Jun2025 16:25:55.331] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=121}
-[24Jun2025 16:25:55.443] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=121}
-[24Jun2025 16:25:55.444] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=121}
-[24Jun2025 16:25:57.774] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:57.775] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:25:57.776] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:26:52.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/9505, l='ServerLevel[world]', x=-789.30, y=30.74, z=-1210.60] died: Sanctum Cultist tried to swim in lava
-[24Jun2025 16:26:58.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:27:28.456] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:27:30.905] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:27:43.337] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:27:44.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:28:17.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:28:18.665] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.291] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.291] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.291] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.291] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.292] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.293] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.296] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.296] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:22.296] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:32.930] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:32.931] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:32.931] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:32.931] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:32.931] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:32.931] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:32.932] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:34.016] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:45.087] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:54.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Piglin
-[24Jun2025 16:28:57.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:28:58.146] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:58.166] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:58.167] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:58.167] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:58.167] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:58.254] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:28:58.293] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:29:02.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Piglin Brute
-[24Jun2025 16:29:12.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Piglin Brute
-[24Jun2025 16:29:44.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:29:47.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:29:50.912] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:30:16.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:30:58.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Oh Shiny]
-[24Jun2025 16:31:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:33:43.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Piglin
-[24Jun2025 16:33:46.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:33:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Piglin Brute
-[24Jun2025 16:33:52.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:34:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:34:59.118] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -431.0 40.0 -1597.0 minecraft:the_nether
-[24Jun2025 16:35:02.000] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:35:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:35:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:35:49.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:36:08.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 tried to swim in lava to escape Magma Cube
-[24Jun2025 16:36:11.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:36:20.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 burned to death
-[24Jun2025 16:38:02.204] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3596.5 63.0 0.5 minecraft:overworld
-[24Jun2025 16:38:02.657] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
-[24Jun2025 16:38:48.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Enchanter]
-[24Jun2025 16:38:53.538] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3616.0 63.0 -27.0 minecraft:overworld
-[24Jun2025 16:39:04.369] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -443.5 29.0 -1436.5 minecraft:the_nether
-[24Jun2025 16:39:05.783] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 16:39:09.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:39:19.393] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
-[24Jun2025 16:39:30.856] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3617.0 63.0 -27.0 minecraft:overworld
-[24Jun2025 16:39:42.010] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -424.5 39.0 -1413.5 minecraft:the_nether
-[24Jun2025 16:39:52.305] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -466.0 44.0 -1607.0 minecraft:the_nether
-[24Jun2025 16:39:54.579] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-223, y=15, z=-22}
-[24Jun2025 16:39:54.697] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-218, y=10, z=-283}
-[24Jun2025 16:39:58.115] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-286, y=168, z=-18}
-[24Jun2025 16:39:58.117] [Worker-Main-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Failed to parse either. First: Failed to parse either. First: Not a string: null; Second: Not a json array: null; Second: Not a JSON object: null missed input: {"minecraft:lore":['{"italic":true,"color":"#4400AA","text":"Feel its electrical power"}',"",'{"translate":"Incendium","color":"#FF8000","italic":true}']}'
-[24Jun2025 16:41:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:41:41.934] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:41:42.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:41:46.528] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:41:49.239] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:41:49.240] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:41:49.240] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:30.778] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -439.0 42.0 -1836.0 minecraft:the_nether
-[24Jun2025 16:42:31.760] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:31.761] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:31.761] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:31.761] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:31.762] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.669] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.670] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.670] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.671] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.671] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.671] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.671] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.672] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.672] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.673] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.673] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.673] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:36.673] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:42:43.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:42:48.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/15793, l='ServerLevel[world]', x=-436.41, y=42.42, z=-1835.70] died: Piglin Paratrooper was slain by Colomer3213
-[24Jun2025 16:43:01.237] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:32.698] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:32.740] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.439] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.440] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.440] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.440] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.440] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.440] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.440] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.441] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.441] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:51.441] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:57.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:57.766] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:57.766] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:57.766] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:43:57.766] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:44:38.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:44:41.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Piglin
-[24Jun2025 16:44:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:44:51.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Piglin Brute
-[24Jun2025 16:44:54.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:45:16.953] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.953] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.953] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.954] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.954] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.954] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.955] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.955] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.955] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.955] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.955] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:16.956] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:45:56.152] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-218, y=10, z=-283}
-[24Jun2025 16:46:10.324] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:46:44.483] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:46:44.484] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:46:44.485] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:46:44.485] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:46:44.485] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:47:22.725] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:47:23.192] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:47:40.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:47:45.625] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:47:55.292] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:48:11.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17574, l='ServerLevel[world]', x=-453.17, y=36.00, z=-2194.52] died: Piglin Paratrooper was slain by Colomer3213
-[24Jun2025 16:48:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:48:25.316] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -304.0 37.0 -2238.0 minecraft:the_nether
-[24Jun2025 16:48:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:48:32.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was slain by Piglin Paratrooper
-[24Jun2025 16:48:37.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:48:38.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Piglin Paratrooper
-[24Jun2025 16:48:41.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:48:49.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17623, l='ServerLevel[world]', x=-456.70, y=27.00, z=-2188.70] died: Piglin Paratrooper was slain by Colomer3213
-[24Jun2025 16:49:10.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:49:30.155] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -307.0 44.0 -2271.0 minecraft:the_nether
-[24Jun2025 16:49:32.195] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:32.195] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:32.195] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:32.195] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:32.196] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:32.196] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:33.113] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.780] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.781] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.781] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.781] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.784] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.785] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.785] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.785] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.785] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.785] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.785] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.786] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:37.786] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:49:45.878] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:50.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has reached the goal [In the Hall of the Piglin King]
-[24Jun2025 16:49:55.527] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:49:56.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17771, l='ServerLevel[world]', x=-330.16, y=35.00, z=-2276.14] died: Piglin Paratrooper was slain by Colomer3213
-[24Jun2025 16:49:57.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17773, l='ServerLevel[world]', x=-317.30, y=63.50, z=-2276.52] died: Piglin Paratrooper was doomed to fall
-[24Jun2025 16:50:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:50:09.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has reached the goal [In the Hall of the Piglin King]
-[24Jun2025 16:50:20.953] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -305.5 44.0 -2270.5 minecraft:the_nether
-[24Jun2025 16:50:37.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:51:01.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17509, l='ServerLevel[world]', x=-428.65, y=31.00, z=-2225.47] died: Piglin Paratrooper tried to swim in lava
-[24Jun2025 16:52:28.529] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -414.0 33.0 -2423.0 minecraft:the_nether
-[24Jun2025 16:52:36.544] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:52:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:52:43.479] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:52:43.479] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:52:43.480] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:52:43.480] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:02.064] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:02.065] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:02.066] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:02.066] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:02.066] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:02.066] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:02.099] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:03.063] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:03.247] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:03.248] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:05.170] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 16:53:10.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielgp_05 moved too quickly! 4.1874520660664984,5.419999986886978,-7.666693876289628
-[24Jun2025 16:53:10.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
-[24Jun2025 16:53:24.082] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -370.0 35.0 -2613.0 minecraft:the_nether
-[24Jun2025 16:53:24.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Radioactive]
-[24Jun2025 16:53:29.336] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:29.337] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:29.337] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:31.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:53:31.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Radioactive]
-[24Jun2025 16:53:33.088] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:33.089] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:33.137] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:33.205] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:53:33.986] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:33.988] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:34.245] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:39.493] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:39.496] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:39.599] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:39.600] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:39.601] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:53:42.906] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:54:50.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20117, l='ServerLevel[world]', x=-347.93, y=56.89, z=-2570.71] died: Toxic Slime was slain by Colomer3213
-[24Jun2025 16:55:06.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 tried to swim in lava
-[24Jun2025 16:55:10.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:55:20.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:56:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:56:02.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20176, l='ServerLevel[world]', x=-374.37, y=-20.00, z=-2651.92] died: Toxic Slime was killed
-[24Jun2025 16:56:13.014] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:56:21.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Toxic Personality]
-[24Jun2025 16:56:21.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20558, l='ServerLevel[world]', x=-345.24, y=69.18, z=-2614.41] died: Toxic Slime was slain by Colomer3213
-[24Jun2025 16:56:52.020] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -231.0 60.0 -2551.0 minecraft:the_nether
-[24Jun2025 16:56:56.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20467, l='ServerLevel[world]', x=-283.47, y=-20.00, z=-2658.20] died: Toxic Slime was killed
-[24Jun2025 16:57:01.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 burned to death
-[24Jun2025 16:57:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:57:48.156] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -305.5 44.0 -2270.5 minecraft:the_nether
-[24Jun2025 16:57:51.608] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:57:54.865] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 16:57:56.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 16:58:05.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20906, l='ServerLevel[world]', x=-247.26, y=38.00, z=-2606.48] died: Toxic Slime was slain by Danielgp_05
-[24Jun2025 16:58:15.107] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -310.0 63.0 -2764.0 minecraft:the_nether
-[24Jun2025 16:58:15.273] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:58:15.273] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:58:15.274] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:58:15.274] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:58:15.274] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:58:15.274] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 16:58:32.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20904, l='ServerLevel[world]', x=-283.74, y=-20.00, z=-2610.74] died: Toxic Slime was killed
-[24Jun2025 16:58:46.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has made the advancement [Toxic Personality]
-[24Jun2025 16:58:52.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 16:59:03.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:00:03.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 withered away while fighting Wither Skeleton
-[24Jun2025 17:00:12.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:00:37.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21842, l='ServerLevel[world]', x=-395.86, y=-20.00, z=-2671.91] died: Toxic Slime was killed
-[24Jun2025 17:00:38.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21873, l='ServerLevel[world]', x=-322.94, y=-20.00, z=-2657.67] died: Toxic Slime was killed
-[24Jun2025 17:00:44.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21911, l='ServerLevel[world]', x=-348.74, y=-20.00, z=-2743.26] died: Toxic Slime was killed
-[24Jun2025 17:00:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:01:51.958] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:01:51.968] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:02:23.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:02:36.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was killed
-[24Jun2025 17:02:36.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Danielgp_05]
-[24Jun2025 17:02:46.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22767, l='ServerLevel[world]', x=-410.26, y=-20.00, z=-2711.74] died: Toxic Slime was killed
-[24Jun2025 17:03:09.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22830, l='ServerLevel[world]', x=-442.74, y=-20.00, z=-2772.26] died: Toxic Slime was killed
-[24Jun2025 17:03:51.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was killed
-[24Jun2025 17:03:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Danielgp_05]
-[24Jun2025 17:03:54.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:04:05.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/23145, l='ServerLevel[world]', x=-401.87, y=-20.00, z=-2740.44] died: Toxic Slime was killed
-[24Jun2025 17:04:05.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/23146, l='ServerLevel[world]', x=-420.74, y=-20.00, z=-2796.26] died: Toxic Slime was killed
-[24Jun2025 17:05:01.956] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -262.0 32.0 -2822.0 minecraft:the_nether
-[24Jun2025 17:05:03.084] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:05:15.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:05:58.877] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -283.0 45.0 -2850.0 minecraft:the_nether
-[24Jun2025 17:06:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 tried to swim in lava to escape Ghast Sentry
-[24Jun2025 17:06:12.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:07:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 tried to swim in lava
-[24Jun2025 17:07:16.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:07:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has reached the goal [Pocket Edition Alpha]
-[24Jun2025 17:07:31.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24338, l='ServerLevel[world]', x=-273.01, y=-20.00, z=-2805.26] died: Toxic Slime was killed
-[24Jun2025 17:07:50.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:07:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 has completed the challenge [Hot Tourist Destinations]
-[24Jun2025 17:07:53.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24522, l='ServerLevel[world]', x=-317.74, y=-20.00, z=-2841.74] died: Toxic Slime was killed
-[24Jun2025 17:07:54.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has completed the challenge [Hot Tourist Destinations]
-[24Jun2025 17:08:02.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was slain by Radiation Director
-[24Jun2025 17:08:04.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24536, l='ServerLevel[world]', x=-292.57, y=-20.00, z=-2803.90] died: Toxic Slime was killed
-[24Jun2025 17:08:05.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:08:08.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/21895, l='ServerLevel[world]', x=-244.58, y=32.00, z=-2827.33] died: Radiation Director was slain by Danielgp_05
-[24Jun2025 17:08:30.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24655, l='ServerLevel[world]', x=-255.26, y=-20.00, z=-2832.26] died: Toxic Slime was killed
-[24Jun2025 17:08:36.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24678, l='ServerLevel[world]', x=-275.26, y=-20.00, z=-2791.67] died: Toxic Slime was killed
-[24Jun2025 17:09:09.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24888, l='ServerLevel[world]', x=-286.84, y=-20.00, z=-2817.53] died: Toxic Slime was killed
-[24Jun2025 17:09:09.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24889, l='ServerLevel[world]', x=-239.26, y=-20.00, z=-2815.26] died: Toxic Slime was killed
-[24Jun2025 17:09:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> hazmat
-[24Jun2025 17:09:21.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24921, l='ServerLevel[world]', x=-269.26, y=-20.00, z=-2810.74] died: Toxic Slime was killed
-[24Jun2025 17:09:39.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Hidden in the Depths]
-[24Jun2025 17:10:01.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25303, l='ServerLevel[world]', x=-290.79, y=-20.00, z=-2823.74] died: Toxic Slime was killed
-[24Jun2025 17:10:01.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25309, l='ServerLevel[world]', x=-293.63, y=-20.00, z=-2805.21] died: Toxic Slime was killed
-[24Jun2025 17:10:03.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:11:40.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25760, l='ServerLevel[world]', x=-171.96, y=-20.00, z=-2889.40] died: Toxic Slime was killed
-[24Jun2025 17:12:23.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25850, l='ServerLevel[world]', x=-281.74, y=-20.00, z=-2820.90] died: Toxic Slime was killed
-[24Jun2025 17:12:32.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25869, l='ServerLevel[world]', x=-287.07, y=-20.00, z=-2889.81] died: Toxic Slime was killed
-[24Jun2025 17:12:34.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:12:57.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25931, l='ServerLevel[world]', x=-313.26, y=-20.00, z=-2882.26] died: Toxic Slime was killed
-[24Jun2025 17:14:01.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26056, l='ServerLevel[world]', x=-227.43, y=-20.00, z=-2815.26] died: Toxic Slime was killed
-[24Jun2025 17:14:08.530] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 17:14:11.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
-[24Jun2025 17:14:28.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26106, l='ServerLevel[world]', x=-363.43, y=-20.00, z=-2850.71] died: Toxic Slime was killed
-[24Jun2025 17:14:37.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26126, l='ServerLevel[world]', x=-321.52, y=-20.00, z=-2821.18] died: Toxic Slime was killed
-[24Jun2025 17:14:46.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:14:52.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26159, l='ServerLevel[world]', x=-316.74, y=-20.00, z=-2823.26] died: Toxic Slime was killed
-[24Jun2025 17:14:57.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/21940, l='ServerLevel[world]', x=-283.41, y=47.00, z=-2853.00] died: Ghast Sentry was shot by Colomer3213
-[24Jun2025 17:14:58.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26219, l='ServerLevel[world]', x=-276.26, y=-20.00, z=-2786.26] died: Toxic Slime was killed
-[24Jun2025 17:15:11.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26310, l='ServerLevel[world]', x=-267.26, y=-20.00, z=-2805.26] died: Toxic Slime was killed
-[24Jun2025 17:15:24.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26374, l='ServerLevel[world]', x=-296.55, y=-20.00, z=-2804.92] died: Toxic Slime was killed
-[24Jun2025 17:15:36.040] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -355.0 34.0 -2973.0 minecraft:the_nether
-[24Jun2025 17:15:36.440] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:15:42.909] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -429.0 37.0 -3034.0 minecraft:the_nether
-[24Jun2025 17:15:43.020] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:15:43.615] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:15:46.382] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:15:47.117] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -390.0 47.0 -3079.0 minecraft:the_nether
-[24Jun2025 17:15:47.303] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:15:49.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26483, l='ServerLevel[world]', x=-276.69, y=-20.00, z=-2786.84] died: Toxic Slime was killed
-[24Jun2025 17:15:53.522] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -422.0 32.0 -3144.0 minecraft:the_nether
-[24Jun2025 17:15:54.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26503, l='ServerLevel[world]', x=-270.26, y=-20.00, z=-2770.26] died: Toxic Slime was killed
-[24Jun2025 17:15:55.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:16:14.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26569, l='ServerLevel[world]', x=-265.26, y=-20.00, z=-2799.72] died: Toxic Slime was killed
-[24Jun2025 17:16:50.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26863, l='ServerLevel[world]', x=-307.26, y=-20.00, z=-2833.26] died: Toxic Slime was killed
-[24Jun2025 17:16:53.099] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 17:16:58.657] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -283.0 48.0 -2853.0 minecraft:the_nether
-[24Jun2025 17:17:06.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26935, l='ServerLevel[world]', x=-287.24, y=-20.00, z=-2850.38] died: Toxic Slime was killed
-[24Jun2025 17:17:08.313] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -282.5 73.0 -2852.5 minecraft:the_nether
-[24Jun2025 17:17:12.655] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -283.0 48.0 -2853.0 minecraft:the_nether
-[24Jun2025 17:17:21.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/26979, l='ServerLevel[world]', x=-252.26, y=-20.00, z=-2926.38] died: Toxic Slime was killed
-[24Jun2025 17:17:23.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:17:31.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:17:33.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was doomed to fall by Danielgp_05
-[24Jun2025 17:17:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:17:43.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 moved too quickly! -0.13280788975390578,-10.544157833446192,0.25471109266163694
-[24Jun2025 17:17:43.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:17:47.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27038, l='ServerLevel[world]', x=-311.26, y=-20.00, z=-2835.09] died: Toxic Slime was killed
-[24Jun2025 17:18:00.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27068, l='ServerLevel[world]', x=-320.26, y=-20.00, z=-2892.56] died: Toxic Slime was killed
-[24Jun2025 17:18:21.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 tried to swim in lava
-[24Jun2025 17:18:24.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:18:30.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27470, l='ServerLevel[world]', x=-336.96, y=-20.00, z=-2855.79] died: Toxic Slime was killed
-[24Jun2025 17:18:36.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Colomer3213> ;
-[24Jun2025 17:18:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> :/
-[24Jun2025 17:18:54.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/27561, l='ServerLevel[world]', x=-268.26, y=-20.00, z=-2822.27] died: Toxic Slime was killed
-[24Jun2025 17:18:58.717] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 17:19:03.007] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -106.0 41.0 -2892.0 minecraft:the_nether
-[24Jun2025 17:19:04.636] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:04.918] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:04.918] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:05.537] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:05.623] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:07.658] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:07.659] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:07.662] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:07.742] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:07.742] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:07.743] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:08.575] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:10.207] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -36.0 46.0 -2921.0 minecraft:the_nether
-[24Jun2025 17:19:11.734] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:15.057] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:16.389] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:20.976] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:27.961] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 25.0 38.0 -2934.0 minecraft:the_nether
-[24Jun2025 17:19:35.587] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 100.0 33.0 -3015.0 minecraft:the_nether
-[24Jun2025 17:19:41.889] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:41.889] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:41.890] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:45.706] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 149.0 39.0 -3080.0 minecraft:the_nether
-[24Jun2025 17:19:48.230] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:48.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:48.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:48.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:48.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:48.516] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:48.516] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:49.031] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:49.653] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 185.0 45.0 -3131.0 minecraft:the_nether
-[24Jun2025 17:19:51.529] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:51.529] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:51.540] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:51.577] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:51.577] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:51.578] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:52.260] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:19:53.043] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:53.044] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:53.046] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:53.690] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:53.708] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:19:53.982] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 236.0 41.0 -3109.0 minecraft:the_nether
-[24Jun2025 17:19:59.420] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -353.5 63.0 -53.5 minecraft:overworld
-[24Jun2025 17:20:00.828] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 138.0 32.0 -3201.0 minecraft:the_nether
-[24Jun2025 17:20:01.875] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:20:01.876] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:20:02.777] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:20:05.058] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:20:05.088] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[24Jun2025 17:20:05.995] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 17:20:10.278] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 108.0 44.0 -3209.0 minecraft:the_nether
-[24Jun2025 17:20:16.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:20:16.558] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 123.0 40.0 -3196.0 minecraft:the_nether
-[24Jun2025 17:20:17.666] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:20:17.667] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:20:17.667] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:20:20.168] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:21:05.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:21:11.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 burned to death
-[24Jun2025 17:21:14.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielgp_05> :/
-[24Jun2025 17:21:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:21:28.464] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24Jun2025 17:21:49.708] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 17:21:54.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4410ms or 88 ticks behind
-[24Jun2025 17:22:21.311] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
-[24Jun2025 17:22:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:22:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:23:44.873] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
-[24Jun2025 17:23:45.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:24:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:24:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
-[24Jun2025 17:24:08.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
-[24Jun2025 17:24:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
-[24Jun2025 17:24:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
-[24Jun2025 17:24:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
-[24Jun2025 17:25:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Created new objective [vida]]
-[24Jun2025 17:25:25.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Set display slot list to show objective vida]
-[24Jun2025 17:25:28.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
-[24Jun2025 17:25:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
-[24Jun2025 17:25:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:25:58.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Created new objective [Muertes]]
-[24Jun2025 17:26:05.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Set display slot sidebar to show objective Muertes]
-[24Jun2025 17:26:14.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Reset [Muertes] for <nombre_del_jugador>]
-[24Jun2025 17:26:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 was killed
-[24Jun2025 17:26:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Killed Danielgp_05]
-[24Jun2025 17:26:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 was killed
-[24Jun2025 17:26:26.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Killed Colomer3213]
-[24Jun2025 17:26:29.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
-[24Jun2025 17:27:24.607] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
-[24Jun2025 17:27:27.804] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3038.5 76.0 -380.5 minecraft:overworld
-[24Jun2025 17:27:33.514] [Server thread/INFO] [journeymap/]: Colomer3213 teleported to -3596.5 63.0 0.5 minecraft:overworld
-[24Jun2025 17:27:36.142] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to 106.5 105.0 1114.5 minecraft:overworld
-[24Jun2025 17:28:13.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Colomer3213 moved too quickly! -10.152515962974576,0.0,-0.646297529885663
-[24Jun2025 17:28:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielgp_05: Teleported Danielgp_05 to Colomer3213]
+[25Jun2025 08:22:15.193] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[25Jun2025 08:22:15.196] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
+[25Jun2025 08:22:15.197] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[25Jun2025 08:22:17.275] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[25Jun2025 08:22:17.453] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[25Jun2025 08:22:17.996] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[25Jun2025 08:22:19.344] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Jun2025 08:22:19.480] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[25Jun2025 08:22:19.524] [main/WARN] [mixin/]: Reference map 'betterdungeons.refmap.json' for betterdungeons.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.525] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.525] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.527] [main/WARN] [mixin/]: Reference map 'betterwitchhuts.refmap.json' for betterwitchhuts.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.538] [main/WARN] [mixin/]: Reference map 'betteroceanmonuments.refmap.json' for betteroceanmonuments.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.540] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.541] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.545] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.684] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.686] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.687] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.688] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.689] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.693] [main/WARN] [mixin/]: Reference map 'formations.mixins.refmap.json' for formations.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.695] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.697] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:19.698] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 08:22:21.582] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[25Jun2025 08:22:22.228] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-1-Week/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[25Jun2025 08:22:22.257] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[25Jun2025 08:22:29.716] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[25Jun2025 08:22:29.721] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[25Jun2025 08:22:29.734] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
+[25Jun2025 08:22:30.076] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[25Jun2025 08:22:30.076] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[25Jun2025 08:22:30.099] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[25Jun2025 08:22:31.678] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[25Jun2025 08:22:31.678] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[25Jun2025 08:22:31.679] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[25Jun2025 08:22:31.679] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[25Jun2025 08:22:31.679] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[25Jun2025 08:22:31.679] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[25Jun2025 08:22:31.679] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[25Jun2025 08:22:32.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[25Jun2025 08:22:32.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.1 Target: null
+[25Jun2025 08:22:32.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Starting version check at https://api.modrinth.com/updates/ibnDR6oc/forge_updates.json
+[25Jun2025 08:22:32.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftyfied] Found status: OUTDATED Current: 9.0.1 Target: 9.1.1+mod
+[25Jun2025 08:22:32.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[25Jun2025 08:22:33.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA_OUTDATED Current: 1.21.1-6.0.0-beta.47 Target: 1.21.1-6.0.0-beta.52
+[25Jun2025 08:22:33.128] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Starting version check at https://api.modrinth.com/updates/Vr3O6THr/forge_updates.json
+[25Jun2025 08:22:33.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [wabi_sabi_structures] Found status: OUTDATED Current: 3.0.0 Target: 3.0.1
+[25Jun2025 08:22:33.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[25Jun2025 08:22:33.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[25Jun2025 08:22:33.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[25Jun2025 08:22:33.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.1-1.4.10 Target: 1.21.1-1.4.12
+[25Jun2025 08:22:33.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Jun2025 08:22:33.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
+[25Jun2025 08:22:34.254] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[25Jun2025 08:22:36.502] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.505] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.508] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.517] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.522] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.527] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_absi_palace/start_pool`: { spacing: 50, separation: 25, salt: 19482856, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.527] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_accum_quad/start_pool`: { spacing: 50, separation: 25, salt: 28482856, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.528] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_blaze_tower/start_pool`: { spacing: 50, separation: 25, salt: 37482856, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.528] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_center_square/start_pool`: { spacing: 50, separation: 25, salt: 46482856, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.528] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_giant_crimson_tree/start_pool`: { spacing: 50, separation: 25, salt: 55482856, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.529] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_obsi_house/start_pool`: { spacing: 50, separation: 25, salt: 64482856, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.536] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.537] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.537] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[25Jun2025 08:22:36.541] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[25Jun2025 08:22:37.725] [Worker-Main-3/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element minecraft:loot_table/wabi_sabi_structures:chests/generic/generic_firework_dispenser - Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[12801229]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2651799]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[14602026]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[3887386]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[2437522]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]; Input does not contain a key [mode]: MapLike[{"values":[{"shape":"small_ball","colors":[11743532]}]}]
+[25Jun2025 08:22:39.290] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2481 recipes
+[25Jun2025 08:22:39.788] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1989 advancements
+[25Jun2025 08:22:41.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[25Jun2025 08:22:41.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Jun2025 08:22:41.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Jun2025 08:22:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Jun2025 08:22:41.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Jun2025 08:22:41.653] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25Jun2025 08:22:41.725] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25Jun2025 08:22:41.725] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25Jun2025 08:22:41.726] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25Jun2025 08:22:41.726] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25Jun2025 08:22:41.746] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[25Jun2025 08:22:41.816] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[25Jun2025 08:22:42.598] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[25Jun2025 08:22:42.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Jun2025 08:22:47.762] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.137.26.182:58037] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[25Jun2025 08:22:49.367] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.137.26.182:59385] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[25Jun2025 08:22:57.927] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.137.26.182:33575] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[25Jun2025 08:22:59.166] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.137.26.182:37743] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[25Jun2025 08:23:05.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Jun2025 08:23:08.591] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 08:23:08.593] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 08:23:08.593] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 08:23:08.594] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 08:23:08.594] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 08:23:08.595] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 08:23:08.596] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 08:23:08.933] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3525 ms
+[25Jun2025 08:23:08.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.191s)! For help, type "help"
+[25Jun2025 08:23:08.955] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[25Jun2025 08:23:08.963] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[25Jun2025 08:23:08.965] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeClientHooks@dd1c689 for service interface journeymap.api.services.ClientPlatformService
+[25Jun2025 08:23:08.967] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.ForgeHooks@4f1c345c for service interface journeymap.api.services.CommonPlatformService
+[25Jun2025 08:23:26.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danielgp_05[/127.137.26.182:52477] logged in with entity id 91 at (108.3754969156832, 105.0, 1120.326259376471)
+[25Jun2025 08:23:26.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielgp_05 joined the game
+[25Jun2025 08:23:36.068] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -3594.5 63.0 -5.5 minecraft:overworld
+[25Jun2025 08:24:34.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colomer3213[/127.186.86.28:57705] logged in with entity id 795 at (-3033.5, 76.0, -381.5)
+[25Jun2025 08:24:34.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 joined the game
+[25Jun2025 08:25:28.047] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -186.0 78.0 28.0 minecraft:the_nether
+[25Jun2025 08:25:31.640] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:34.258] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:42.849] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:42.851] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:42.852] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:42.853] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:42.853] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:42.856] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:42.856] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:42.857] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:25:46.966] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:25:47.036] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:25:58.500] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:05.726] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:05.805] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:05.911] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:05.913] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:05.913] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:12.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:12.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:12.300] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:12.457] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:12.458] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:12.494] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:12.495] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:12.495] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:17.231] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -104.0 76.0 -68.0 minecraft:the_nether
+[25Jun2025 08:26:21.686] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:22.534] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:23.330] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:23.331] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:23.331] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:23.331] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:24.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Colomer3213: Teleported Colomer3213 to Danielgp_05]
+[25Jun2025 08:26:26.446] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[25Jun2025 08:26:46.777] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:46.778] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:46.779] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:46.779] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:46.779] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:46.779] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:26:46.780] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:27:11.984] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -145.0 68.0 -60.0 minecraft:the_nether
+[25Jun2025 08:28:53.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has made the advancement [Not Today, Thank You]
+[25Jun2025 08:29:03.667] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Jun2025 08:30:28.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colomer3213 has reached the goal [Apparitions]
+[25Jun2025 08:30:28.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/2519, l='ServerLevel[world]', x=-120.45, y=34.57, z=-67.75] died: Restless Spirit was slain by Colomer3213
+[25Jun2025 08:31:13.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/2636, l='ServerLevel[world]', x=-92.93, y=56.24, z=-89.59] died: Restless Spirit was slain by Colomer3213
+[25Jun2025 08:31:16.425] [Server thread/INFO] [journeymap/]: Danielgp_05 teleported to -140.0 68.0 -113.0 minecraft:the_nether
