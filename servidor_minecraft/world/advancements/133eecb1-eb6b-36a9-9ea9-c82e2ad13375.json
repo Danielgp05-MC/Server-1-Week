@@ -530,7 +530,9 @@
     "criteria": {
       "minecraft:blaze": "2025-06-23 08:56:51 +0000",
       "minecraft:skeleton": "2025-06-18 08:51:14 +0000",
+      "minecraft:zombified_piglin": "2025-06-25 08:46:15 +0000",
       "minecraft:wither_skeleton": "2025-06-23 08:57:58 +0000",
+      "minecraft:ghast": "2025-06-25 08:33:36 +0000",
       "minecraft:hoglin": "2025-06-23 09:29:39 +0000",
       "minecraft:cave_spider": "2025-06-18 08:52:35 +0000",
       "minecraft:piglin": "2025-06-23 09:32:42 +0000",
@@ -2804,8 +2806,10 @@
     "criteria": {
       "incendium:ash_barrens": "2025-06-24 16:11:10 +0000",
       "incendium:infernal_dunes": "2025-06-23 08:55:56 +0000",
+      "incendium:weeping_valley": "2025-06-25 08:28:27 +0000",
       "incendium:quartz_flats": "2025-06-24 16:06:06 +0000",
-      "incendium:toxic_heap": "2025-06-24 16:53:24 +0000"
+      "incendium:toxic_heap": "2025-06-24 16:53:24 +0000",
+      "incendium:withered_forest": "2025-06-25 08:37:40 +0000"
     },
     "done": false
   },
@@ -3626,6 +3630,108 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-24 17:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-25 08:33:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-06-25 08:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/red_sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:33 +0000"
     },
     "done": true
   },

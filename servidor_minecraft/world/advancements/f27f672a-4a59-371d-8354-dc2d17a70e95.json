@@ -743,6 +743,7 @@
       "minecraft:magma_cube": "2025-06-23 09:09:52 +0000",
       "minecraft:spider": "2025-06-12 09:54:08 +0000",
       "minecraft:piglin_brute": "2025-06-24 16:29:54 +0000",
+      "minecraft:vex": "2025-06-25 08:30:28 +0000",
       "minecraft:zombie": "2025-06-12 09:54:26 +0000",
       "minecraft:creeper": "2025-06-14 13:27:50 +0000",
       "minecraft:zombie_villager": "2025-06-12 10:11:48 +0000",
@@ -1178,6 +1179,7 @@
       "cooked_mutton": "2025-06-12 10:32:08 +0000",
       "cooked_beef": "2025-06-12 10:13:53 +0000",
       "baked_potato": "2025-06-24 17:10:12 +0000",
+      "melon_slice": "2025-06-25 09:32:40 +0000",
       "cooked_salmon": "2025-06-14 08:13:03 +0000",
       "golden_carrot": "2025-06-18 10:22:26 +0000"
     },
@@ -3565,7 +3567,8 @@
       "incendium:infernal_dunes": "2025-06-23 08:53:24 +0000",
       "incendium:weeping_valley": "2025-06-25 08:26:37 +0000",
       "incendium:quartz_flats": "2025-06-24 16:06:11 +0000",
-      "incendium:toxic_heap": "2025-06-24 16:53:31 +0000"
+      "incendium:toxic_heap": "2025-06-24 16:53:31 +0000",
+      "incendium:withered_forest": "2025-06-25 08:38:00 +0000"
     },
     "done": false
   },
@@ -4448,6 +4451,156 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-24 17:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-25 08:28:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-06-25 08:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-25 08:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-25 08:30:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-06-25 08:38:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/flesh": {
+    "criteria": {
+      "has_blood_bucket": "2025-06-25 08:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/red_sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-25 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-25 09:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-25 09:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-25 09:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-25 09:41:55 +0000"
     },
     "done": true
   },
